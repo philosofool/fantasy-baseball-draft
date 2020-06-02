@@ -1,0 +1,2006 @@
+All Pitchers Year to Date MLB True Talent Categories,,,,,,,,,,,,,,,,,
+Avail,Player,INN,GS,BFP,PC,W,S,K,BB,H,HR,ER,ERA,WHIP,Kd9,BBd9,Rank
+W ,Ryan Weathers SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Faedo SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Baker SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Patrick Ruotolo RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Socolovich RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colton Turner RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tanner Rainey RP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Sobotka RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Felipe Vazquez RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Jose Leclerc RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Smith RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kazuhisa Makita RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Hooper RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eddie Butler RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Lauer SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Neidert SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Kuchno RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Abad RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Vargas SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,AJ Ramos RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Crouse SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Al Alburquerque RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitch Lively RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Jennings SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johnny Cueto SP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Weathersby RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Thomas RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Perdomo SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Lowther SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Funkhouser SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Harris SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Collin McHugh RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Jones RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tucker Davidson SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marc Rzepczynski RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Chase Anderson SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Caleb Frare RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Magill RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tristan Archer RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Torres RP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Grant Sides P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Frawley RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Crockett RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jharel Cotton SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Berg RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Pruitt RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Allen RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tanner Dodson RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rhiner Cruz RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Viza RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johnny Barbato RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Bonnell RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rayan Gonzalez RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Frias RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Samardzija SP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan McNeil RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jhondaniel Medina SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cy Sneed RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitch Horacek P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Casey Lawrence RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Wright RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Grullon P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Blair SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Trevor May RP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Colletti RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Madison Younginer RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Reyes Moronta RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Triggs SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Puk SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Whit Mayberry P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Alexy SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Manny Parra RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Blake Treinen RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dalton Moats RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Civale SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Thornburg RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Montana DuRapau P | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Clayton Kershaw SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Mann RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Carpenter RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Winkler SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Holmberg RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jackson Stephens RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Madson RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yovani Gallardo SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Felix Hernandez SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Kittredge RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Hauschild RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marco Duarte SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Tillman SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Slegers SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Corcino RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lucas Sims RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aroni Nina RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Brady RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gabriel Ynoa RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kohl Stewart SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Smith RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Chris Archer SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon McCarthy SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Victor Arano RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Keller P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Jones RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yennsy Diaz SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Soroka SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Albert Minnis RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robbie Erlin RP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Minch RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dario Agrazal SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Guerrieri RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryne Harper RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Patrick Corbin SP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erasmo Ramirez SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Garner RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Conor Fisk RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Almonte RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Eshelman SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,JT Chargois RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ross Detwiler RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gonzalo Sanudo RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Merrill Kelly SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Tillman RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Sappington SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Ladwig P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Ballew RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Starling Peralta SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tobias Myers SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Roniel Raudes SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Charles Nading RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Henry Henry RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Villines RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike McCarthy P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Gonsalves SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Velazquez RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brenan Hanifee RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cesar Ramos RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Altavilla RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robbie Ross RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Cobb SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Runzler RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marcos Molina SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Darren O'Day RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Gossett SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Zamora RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Odorizzi SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Joe Musgrove SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wei-Chieh Huang P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Sendelbach RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johan Oviedo SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Cyr RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Ross SP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Davies SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Kyle Freeland SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Argenis Blanco RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Donnie Hart RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Keller P | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Vince Velasquez SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colten Brewer RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Vladimir Gutierrez SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gene Escat P | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dusten Knight P | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,D.J. Brown RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Filomeno RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Collier SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,James Shields SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Hasler P | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Siegrist RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Gunkel P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rafael Pineda RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ralston Cash RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Antonio Bastardo RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edwin Uceta SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cole Irvin SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Ysla RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Otero RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Fernandez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Duke RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Buddy Baumann RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Barnes RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Ynoa RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Quintin Torres-Costa RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.C. Sulbaran SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nickolas Sarianides P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Baker RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joel Payamps RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Okert RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex McRae RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Connor Sadzeck RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Ramirez RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Dellin Betances RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justus Sheffield RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Nicolino RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Alexander SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seth Romero SP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Finnegan RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Collin Wiles RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chandler Shepherd RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ivan Nova SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Chris Sale SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Barnette RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Severino Gonzalez RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Anderson RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marco Estrada SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Russell RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Richard Bleier RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Locke SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Turley P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Parker Markel RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kieran Lovegrove SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Denyi Reyes SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anyelo Leclerc RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johendi Jiminian P | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jared Hughes RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Hudson SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Then SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seth Lugo RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alan Busenitz RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Zych RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Tropeano SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Hunter P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yeudy Garcia SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Wells SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Max Povse RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Johnson RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kutter Crawford SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brody Colvin SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Hendrix RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Williams RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,D.J. Snelten RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Richard Lovelady RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kurt Heyer P | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Jungmann RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Sandoval SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Zack Wheeler SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bo Schultz RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jean-Carlos Mejia P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Myles Jaye RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,William Cuevas RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmie Sherfy RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeffrey Rosa SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Mantiply RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Derek Eitel P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Preston Guilmet RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Davis RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rainy Lara RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Parker Curry RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Junior Guerra SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Adkins SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Javy Guerra RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Casey Mize SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Reynaldo Lopez SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Ty Buttrey RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Gio Gonzalez SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Anderson P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Teddy Stankiewicz SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yusmeiro Petit RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,MacKenzie Gore SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Strop RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Thomas Hatch SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marco Gonzales SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Domingo Acevedo SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Tenuta RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Jordan Zimmermann SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rubby De La Rosa RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Brach RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,JoJo Romero SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Speas RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Halstead RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chasen Bradford RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Landazuri SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Kuhl SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Ross Stripling SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ethan Hankins SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Clayton Blackburn SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Jace Fry RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Bremer RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Richelson Pena RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Banwart SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Heriberto Ruelas RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chance Adams RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Bracewell RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Manning SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Beckman P | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colby Suggs RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marlon Arias P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Grace RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Conley RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Reed RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Bettencourt RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Cecil RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Sandy Alcantara SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joakim Soria RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,El'Hajj Muhammad RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoel Mecias SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Brice RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Avilan RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Barraclough RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jairo Labourt RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Neil Ramirez RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Hyatt SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Peoples RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Hursh RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Griggs RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cole Winn SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Mengden SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Rolison SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Holmes RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wyatt Mills P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Austin Gomber RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Trevor Hildenberger RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Rogers RP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jean Machi RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Cessa RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Davila SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Riley Pint SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Moll RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Workman RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Garton RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Scherff SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Maciel P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Grover RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keegan Long RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Peterson P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduardo Jimenez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andres Avila RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeffrey Springs RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Henry Martinez RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phil Bickford RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Devenski RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edgar Garcia RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Moseley RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Koch SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Harvey SP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Gilbert RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Wood RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elniery Garcia SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Bragg RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Will Smith RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Marsh RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nelson Gonzalez RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Edgin RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Kalish SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle McGowin RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Imhof P | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Cahill SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Claudio RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kent Emanuel P | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Odrisamer Despaigne RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Martin RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Hunter RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jen-Ho Tseng SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Parks RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Appel SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Yacabonis SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robinson Ortiz SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Clayton Cook RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Griffin Canning SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Peterson RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Lincecum SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Williams Jerez RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Hearn SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Neil Holland RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Romero SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Hissong RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Taylor RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cionel Perez RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Cimber RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Hackimer RP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Feliz RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,P.J. Francescon P | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Asher Wojciechowski RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jarlin Garcia RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Boone Logan RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Braydon Fisher SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Esmerling De La Rosa RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Brad Keller RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ubaldo Jimenez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Ferguson RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Eubank RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Dereck Rodriguez SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colton Davis RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Hillman SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge Reyes SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Olson RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Derek Rodriguez RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Alex Reyes SP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anfernee Benitez RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Stull RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.T. Ginn SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Escobar SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Williams RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Reyes RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Pistorese RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Stinnett SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kodi Medeiros SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoendrys Gomez SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phil Maton RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Markey RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Motte RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Martin SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lucas Benenati RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Wells SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Meisinger RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joan Gregorio SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Madison Bumgarner SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kolton Mahoney RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Zimmerman RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Mejia RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Derek Holland SP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ty Blach RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Watson RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Melancon RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dominic Leone RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,David Price SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edward Mujica RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brendan McKay SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Freeman P | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Akeem Bostick SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Howard SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Cooper RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Endrys Briceno SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francisco Mendoza RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin McGowan RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dean Kiekhefer RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Goldberg RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew VerHagen RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Shore SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cory Gearrin RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Duplantier SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elliot Morris P | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joey Krehbiel RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Yoshihisa Hirano RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cory Taylor SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Osmer Morales RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rex Brothers RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lyon Richardson SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Brooks RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carl Edwards RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeanmar Gomez RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Aiken SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Anibal Sanchez SP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Thomas Pannone SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miller Diaz SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jim Johnson RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Manny Banuelos SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Luis Castillo SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Melville RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Curtiss RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Freddy Tarnok RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phillips Valdez RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Broadway RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Kahnle RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Ehret P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Sipp RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ervin Santana SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Masahiro Tanaka SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Taylor P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Peterson SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dustin McGowan RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Suarez SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Hedges RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryder Ryan RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Wagner RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Andrew Heaney SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Gagnon RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nik Turley RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Weaver SP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Kopech SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Ames SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Steven Matz SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Wade Davis RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Serrano RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Rogers RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jack Leathersich RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Jordan Hicks RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Martires Arias SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yadier Alvarez SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Cordero RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Castro RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jared Lakind RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Weiman RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Packy Naughton SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge Guzman SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Fleet RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Pike SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ruben Alaniz RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge Alcala SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Duensing RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Craig Stem P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Steve Cishek RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Feigl RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jairo Diaz RP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Shohei Ohtani DH | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Lakins RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Charlie Shirek SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ariel Jurado SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Quackenbush RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chi Chi Gonzalez SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Zastryzny RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Woodford SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,JC Ramirez SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Gage RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,D.J. Baxendale SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Blazek RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Windle SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alfred Gutierrez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carter Capps RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Torres RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.T. Brubaker P | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Duffy SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Collmenter RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francis Martes RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Reymin Guduan RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yonny Chirinos RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Helsley SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Doolittle RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jayson Aquino RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Mayza RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Santiago Garrido SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tayron Guerrero RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Fields RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chase Huchingson RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steve Delabar RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brennan Bernardino RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Del Pozo RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Liberatore RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Forjet RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,T.J. Weir RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cristian Javier SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francisco Morales SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adbert Alzolay SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Garcia RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robinson Leyer P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Liam Hendriks RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robert Benincasa P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Buckelew P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Jennings RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Radhames Liz RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Harvey SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Slania RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Roseboom RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brailyn Marquez SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Janas SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Alvarado RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wes Benjamin RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Buckel RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rogelio Armenteros SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Cox RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Velez RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trey Nielsen SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matthias Dietz SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adonys Cardona SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyson Ross SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nabil Crismatt SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jaime Schultz RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett McKinney RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Anderson RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Raynel Espinal RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colin Poche RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,German Marquez SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carson Fulmer SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Neal RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brendon Little SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Caleb Ferguson RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edgar Santana RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daury Torrez RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Lamb SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Norris SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robert Stephenson SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Kendrick SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Kazmir SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hobbs Johnson P | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Banda RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Barnes RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Silvino Bracho RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ariel Miranda SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Dowdy SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bruce Zimmermann RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Kelley RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dillon Maples RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Holder RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Jose Urena SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kris Bubic SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Bugner RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Dickson RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rafael Kelly SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Heston RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Widener SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Rich Hill SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Forrest Snow SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jefri Hernandez RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Axford RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wilmer Font RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,R.J. Alvarez RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Burnett RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tanner Scott RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Junior Fernandez SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Portuondo RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mauricio Cabrera RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Goody RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Farris RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Myles Smith RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Rodney RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Mesa SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh James SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andy Beltre RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott McGough RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edubray Ramos RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Thompson SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Burch Smith RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sal Romano SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Koda Glover RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Gott RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,J.A. Happ SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yuhei Nakaushiro P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Beck RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mason Denaburg SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mason Thompson SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Merritt SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Mata SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Koval RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yusei Kikuchi SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Putnam RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brent Honeywell SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Jensen P | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shane Carle RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dane Dunning SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Winiarski RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Haley RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Donatello P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Clarke SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bernardo Flores SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesse Scholtens SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Roberto Osuna RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Mason RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Tonkin RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Sheffield RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Smith SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Archie Bradley RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Caleb Smith SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Henry Owens SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Maddox RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Gaviglio SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lex Rutledge P | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Plutko SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shao-Ching Chiang P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Diaz RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Camarena SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeremy Hellickson SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Rucinski RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rafael Montero SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Quijada P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Spencer Howard SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Santiago Casilla RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Touki Toussaint SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Luzardo SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Webb P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Orewiler RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Nix SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Wisler RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Kay SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kaleb Fleck RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Buchter RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dayan Diaz RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Richman RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Adams RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Johnson P | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Kolek SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Mitchell SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robert Stock RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Franklin Perez SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Hernandez SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Singer RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Nick Kingham SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Christian Bethancourt RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeremy Kivel P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan O'Rourke RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Louis Head P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Reininger RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Daniel Rodriguez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Quinn RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Littrell SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paolo Espino RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Gutierrez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Tabor SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Roenis Elias RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Michael Wacha SP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Bard RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Phillips SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kody Kerski P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Wilk RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Pomeranz RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Dunn SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nathan Bates RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Murphy Smith RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marco Carrillo RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Gibaut RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Sodders RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Farquhar RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Reed SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Lynch SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Anthony DeSclafani SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rodolfo Martinez RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jhan Marinez RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Alexander RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Victor Alcantara RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robert Dugger SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Voth SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Parker Bridwell RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Dermody RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Shirley P | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gabe Hemmer RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brooks Pounders RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Mizenko RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin McAvoy RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kelly Secrest RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Ravin RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Broussard RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Andrew Suarez SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Ramirez RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Vicente Campos RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Wilhelmsen RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Wieck RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Craig Breslow RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Yamamoto SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Corey Kluber SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Beato RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brock Burke P | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Williams RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robert Zarate SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Reinier Roibal RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bartolo Colon SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Heath Fillmyer SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Loconsole P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Cooper P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Thompson RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Creasy RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Brantley RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Stumpf RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Damien Magnifico RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Whitehouse RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Hartman SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Rogers P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ashe Russell SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoanner Negrin RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Copping P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Powers RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Boyd P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alexis Rivero RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Church SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Clayton Richard SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Arturo Reyes RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Holloway SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Bray RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kolby Allard RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Yarbrough RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Scahill RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Dragmire RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Deolis Guerra RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Harrison Musgrave RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francisco Rios SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Branden Kline SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jaron Long SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Rodgers RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Lyons RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge De La Rosa RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Dyson RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Devin Williams SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris O'Grady RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Gonzalez RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Aro RP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Freddy Peralta SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Frank Lopez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Argenis Angulo P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stefan Crichton RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Pierpont P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Nick Pivetta SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bradin Hagens SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brock Stewart RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Colome RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gage Hinsz SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edison Frias RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Leibrandt SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Araujo RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Uhen RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Ken Giles RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rowan Wick RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,C.D. Pelham RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ariel Hernandez RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joaquin Benoit RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Taylor RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Hart P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yency Almonte RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Montreal Robertson SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sandy Lugo RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Jon Gray SP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Osich RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corbin Clouse RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chase De Jong SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Alberto Molina RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,T.J. House RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alan Garcia RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Street RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ronald Herrera RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seung-Hwan Oh RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Norwood RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brusdar Graterol SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jerry Keel RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Chafin RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,P.J. Conlon SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Hernandez SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Jay RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Cingrani RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Guillermo Moscoso RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Soriano SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,T.J. Zeuch SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adonis Medina SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Mendoza RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin House P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Milroy P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Gowdy SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dominic DeMasi RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Rosenthal RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Geoff Broussard P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matthew Festa RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jumbo Diaz RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Kelly RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Curtis RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Ortiz SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Coonrod SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cale Coshow RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Rogers P | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Dimock RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shae Simmons RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Max Scherzer SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Rogers SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Ibarra RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitch Lambson RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Norge Ruiz SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kirby Bellow RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Wright RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Harris RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonny Venters RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Misiewicz RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erik Swanson SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blaine Hardy RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jefry Rodriguez SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Nance RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Luis Severino SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Ellis SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Naile RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Balazovic SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Sean Newcomb SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Jokisch RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Julio Urias RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robby Rowland RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yacksel Rios RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Gerrit Cole SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ricardo Rodriguez RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Margevicius SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zech Lemond P | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Dunn RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adrian Sampson SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Conner Menez SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Kenley Jansen RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tanner Houck SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Cloyd RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Eppler RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marcus Mack RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Jester RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Oaks SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Nix RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ofelky Peralta SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shawn Tolleson RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Nikorak SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Carpenter SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taijuan Walker SP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dillon McNamara RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Castellani SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Noah Syndergaard SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Shibuya RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Tyler Skaggs SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Frank Del Valle RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Stephan SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Whalen RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Greg Williams RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Mercado SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Faulkner RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Moore SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rafael Cova SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dane Myers RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paul Fry RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nolan Watson SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Zagurski RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Lee RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Alex Wood SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Wagner RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Means RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorgan Cavanerio RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Perez SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Pearson SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Edwin Diaz RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Vidal Nuno RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Kinley RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Rusin RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Gracey RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Gonsolin SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Braxton Ashcraft SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jerry Vasto RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Stephen Strasburg SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Staumont RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Patrick Johnson RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Jameson Taillon SP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Janser Lara RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Art Warren RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Kinman P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Hansen P | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mat Latos SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dario Alvarez RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Coulombe RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Young RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Santos P | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jandel Gustave RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rookie Davis SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Barrett Astin RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Grant Zawadzki P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erick Fedde SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Allen Webster RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Lopez SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chaz Roe RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Kennedy SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,RJ Hively RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Megill RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,CC Lee RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ricardo Pinto RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Baumann SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Hatcher RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Estevez RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paul Blackburn SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Petricka RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gabriel Alfaro SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Pugliese RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Green SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Brown RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Schwaab RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Abreu P | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gabriel Moya RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Dallas Keuchel SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elvis Luciano P | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colin Kleven SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Tinoco SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Ginkel RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nolan Becker RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Gant SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sixto Sanchez SP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adrian Salcedo RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Felix Jorge SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Cervenka RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shawn Haviland RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Oliver Drake RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Hamilton RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Rodriguez SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Pena P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Ziomek SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Straily SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Fife SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Merandy Gonzalez RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam McCreery RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Tanner Roark SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Glenn Sparkman RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brendan McCurry RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Lucas RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Lane RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Walker RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Julio Teheran SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Hoyt RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Deivi Garcia SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Waldron RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Rosario RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Howard RP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jhoan Duran SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dillon Peters SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Sherriff RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Rodriguez P | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rafael De Paula SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Deck McGuire RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonah Wesely P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,A.J. Minter RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josiah Gray SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Mujica SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.B. Bukauskas SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Ledbetter RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,T.J. McFarland RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Clark SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Bettis SP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David McKay RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Koch RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Miller RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Moran RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Minaya RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Meyer RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Kolarek RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shawn Kelley RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seth Elledge RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Warwick Saupold RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Katz RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Hudson RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hans Crouse SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Kevin Gausman SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Jackson RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Dorris RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Bibens-Dirkx SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bret Helton RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Mitchell P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jarret Martin SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Graves RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Reid-Foley SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Estarlin Arias RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Harvey RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Jose Berrios SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Ponce SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jaime Barria SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joey DeNato RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Paddack SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Walker Buehler SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Derian Gonzalez RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Domingo German SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mario Meza RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Biagini RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Lorenzen RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alec Mills RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Preston Gainey RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cesar Vargas SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tony Santillan SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dinelson Lamet SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Montgomery RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marcus Walden RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Roberts SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake McGee RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Stoffel RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Schreiber RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Horstman RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Kohler SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Johnson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Mike Fiers SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Lawrence P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Pill RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Chatwood SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Kohlscheen RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Miles Mikolas SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Herget RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Connor Walsh RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Pardinho SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,David Robertson RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Gilmartin RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Evans RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Keller RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Javier Assad SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Taylor Cole RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Bowman RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gregory Soto SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Durbin Feltman RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Miller RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Martinez SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitch Brown SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Flexen RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kurt Spomer P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Rucker SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Lange SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paul Sewald RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Kenta Maeda SP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Ferrell RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Hancock RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carter Stewart SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Sborz SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Marshall RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Dillard RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Antonio Senzatela SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Omahen P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Jemiola SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Turner RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Salazar SP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Gonzalez P | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seth Maness RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johnny Hellweg SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Wright RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Hanhold RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zack Weiss RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gregory Santos SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Kyle Gibson SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Wotherspoon RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Brandon Morrow RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Ross P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yohander Mendez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Ravenelle RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Greg Nappo SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Muller SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Waguespack P | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Schreiber P | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Cody Allen RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Shane Greene RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Zach Eflin SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Greene SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Tepesch SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Hall RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Selman SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zack Brown SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phillippe Aumont SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael King SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ronald Shaban P | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Loaisiga RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Hernandez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blaine Boyer RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Geltz RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Noe Ramirez RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Greg Mahle RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Burgos P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryse Wilson RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Buddy Boshers RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Wolff RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Smith RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Freicer Perez SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Wily Peralta RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alec Grosser SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Diaz SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erik Goeddel RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Derek Law RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Reed RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Mike Clevinger SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesse Hahn SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Huston Street RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jasseel De La Cruz SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Beck Wheeler RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jerry Blevins RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Milbrath RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ricardo Sanchez SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Scribner RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Javier Medina SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Tepera RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ivan Pineyro RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Lujan RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Junichi Tazawa RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Diego Castillo RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wei-Yin Chen SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Peter Moylan RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erik Davis RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alexander Hermeling P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Kuntz RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ty Tice RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nathan Bannister RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Perci Garner RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Rodriguez RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony McIver RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Liranzo RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Bird RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Cleavinger RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Nunn RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Estrada RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Ramirez RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lance McCullers SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zack Littell RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Justin Wilson RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Shawaryn SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Mazza RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Samuel Holland P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Roansy Contreras SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Fulmer SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shane McCain P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduardo Vera SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Riley Ferrell RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Hentges SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Jackson RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Mason RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Alvarado RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zack Burdi RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Klimek RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shawn Morimando RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,D.J. Johnson RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Oswalt SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Gurka RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Peter Lambert SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keith Couch P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bruce Rondon RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Braden Shipley RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathon Crawford SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Hess SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Barrett RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lou Trivino RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoel Espinal RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matthew Gorst P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Addison Reed RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Kelly RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gregory Infante RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andres Munoz RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Lewis RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kaleb Fontenot RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Jose Quintana SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Lowe RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nestor Cortes RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Carlos Rodon SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Thomas Burrows RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Frankie Montas SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Gonzalez RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dovydas Neverauskas RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Burr RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trent Thornton RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tate Scioneaux RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Duffey RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ricky Nolasco SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bubba Derby RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joel Kuhnel RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Martin Perez SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jalen Beeks RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Shoemaker SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Black SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesse Biddle RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Shane Bieber SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Cease SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Oyervidez RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Blewett SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Simon Castro RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Angel Perdomo SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Trevor Bauer SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Angel Ventura P | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Nelson SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Mike Minor SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Hammel RP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Darwinzon Hernandez SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jaime Garcia RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Anderson SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Stewart SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Robby Scott RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Matusz RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Frank Batista RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Tyler Glasnow RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Smith SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Patrick Murphy SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jenrry Mejia RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Istler P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Trevor Williams SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Thyago Vieira RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Pop RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Baez RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gerardo Carrillo SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alexis Lara RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Rhame RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Kurcz P | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fabian Williamson SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Volstad RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erasmo Pinales RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Whitlock SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Moore RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Casey Sadler RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Doyle RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Giovanny Gallegos RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Martinez RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Cosart RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dakota Hudson RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Allen SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Harper RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Smoral RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Arodys Vizcaino RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Carlos Martinez SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Barret Loux SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduardo Rodriguez SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joan Baez SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Urquidez RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduardo Paredes RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Miller RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Girodo RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zack Bird SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jamie Callahan RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Goforth RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Pries SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Rick Porcello SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Kubitza P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Zimmer SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Cruz RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marcos Diplan SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,George Kontos RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Roth RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Reeves P | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Cumpton RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jerad Eickhoff RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.P. Feyereisen RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Hofacket RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corbin Burnes RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Robert Gsellman RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Bassitt SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Ash RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Josh Hader RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Steele SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,William Ouellette RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Wittgren RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Gleason RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Petrick SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shane Broyles P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Silfredo Garcia RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Hernandez RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cameron Bishop SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blayne Enlow SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Atkinson SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Davis RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hoby Milner RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elian Rodriguez RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steve Perakslis RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Peterson RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Fulenchek SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Albertos SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chih-Wei Hu RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Dull RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Matthew Boyd SP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Robbie Ray SP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Bailey RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Finnegan SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Sean Doolittle RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Aaron Nola SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alec Hansen SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Grendell RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Patrick Sandoval SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jackson Kowar SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Doug Fister SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Wright RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Satterwhite SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Maurer RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Akeel Morris RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Castillo SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Jack Flaherty SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alec Asher RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Angel German SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Bielak SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Sauer SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Melvin Adon SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Hill RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dillon Tate SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Rodriguez RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Yardley RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yefri Del Rosario SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Stratton SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Payano SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tucker Healy P | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Gibson RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Julian Merryweather SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Andriese RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Beau Burrows SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Martin RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Jeremy Jeffress RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tayler Scott RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Hernandez RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chaz Hebert RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Matthews SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Richard Castillo RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Darin Gorski SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Hoffman RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryne Slack RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Lloyd SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Foster Griffin SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Heath Hembree RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Gil SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Kohn RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Oberholtzer RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle McMyne P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,JD Hammer RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduard Bazardo SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Thompson RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Richard Rodriguez RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Craig Brooks RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Wood SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Martin RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jack Anderson RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Cole RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Lau RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Williams RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Weber RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corbin Martin SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Regnault RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Clarkin SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron West RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeremy Bleich RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gerson Bautista RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Bass RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Neris RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Lenik RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wes Parsons RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Xavier Cedeno RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Crick RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sonny Gray SP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeremy Rhoades RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Pettibone RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Jacob deGrom SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Isaac P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Gerber RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Perez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Alger P | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adonis Rosa RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin DeCarr P | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Gilbert SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach McAllister RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathan Dziedzic SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Kelly SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Clifton SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lucas Giolito SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Kyle Hendricks SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Jhoulys Chacin SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anyelo Gomez RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Hall RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin McCarthy RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Foley RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeffry Antigua RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Cole Hamels SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Brennan SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cal Quantrill SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Patrick Weigel SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Jepsen RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Ryan RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Conner Greene SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Wood RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Pasquale RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dan Winkler RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Albert Abreu SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Enyel De Los Santos RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Flynn RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,CC Sabathia SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brock Dykxhoorn RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Spurlin P | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Webb SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Smoker RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Clarke Schmidt SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Seth Simmons RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Omak Wrong Players,Brad Peacock RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitch Keller SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian McKinney RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bobby Bundy SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Heller RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Tomlin RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jim Fuller RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Morris RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Buchanan RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Rosscup RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Ledbetter RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Geoff Hartlieb RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ricky Knapp RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Duane Underwood SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wander Suero RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Jake Arrieta SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dustin May SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Castro P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.J. Hoover RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Lollis RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Paulino RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Genesis Cabrera SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Webb RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cole Ragans SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Lopez P | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Grimm RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Greg Holland RP | WAS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bud Norris RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Britton RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Gorman RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Spencer Turnbull SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Freeman RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adrian Houser RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Hector Rondon RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Adam Ottavino RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phil Pfeifer RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Stout RP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Routt RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shane McClanahan SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Loewen RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Sanchez RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Russell RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Schlitter RP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Lombana P | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Anderson RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Griffin SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Mahala RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Eveld RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chase Johnson-Mullins P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andres Machado RP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Jon Lester SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Bollinger RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Randall Delgado RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pat Venditte RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Lujan RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Jankowski RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Carter RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Maese SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Grant Dayton RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Forrest Whitley SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel McGrath P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ismael Guillon SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Haynes SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Perrin SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Beede SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeremy Kehrt SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Phil Hughes RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Terance Marin P | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Waddell SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin De Fratus RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Logan Taylor RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Smyly SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Mateo SP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Bell RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Beckman RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Warner RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,James Paxton SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ernesto Frieri RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Pineda SP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge Marban P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Brad Hand RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Craig Kimbrel RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mitchell White SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Smith RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Williams Perez SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Adam RP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Thomas Szapucki SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Woodruff RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Sean Manaea SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Williams SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Corey Knebel RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keone Kela RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Williams Ramirez RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Nuding SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cory Mazzoni RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Franco RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michel Baez SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colton Murray RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pablo Lopez SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shelby Miller SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lupe Chavez SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Brad Boxberger RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Joey Lucchesi SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Lee RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Victor Payano SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ronald Pena P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Caleb Dirks RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Hutchison RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hisashi Iwakuma SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Kennedy SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Wimmers RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Bourque P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Screaming Prairie Camels,Raisel Iglesias RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pierce Johnson RP | SF ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Sanchez SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Springer International,Tyler Anderson SP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Johnson P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose De Leon RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Foster RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Romero RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Kintzler RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Anderson RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Milone SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Peter Birdwell P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Manny Barreda P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sean Keselica RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Farrell RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Stephens SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Framber Valdez SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Willy Paredes SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Montgomery SP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Colin Rea SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Seranthony Dominguez RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carson Smith RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carson Sands SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keaton Steele RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gerson Moreno RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adrian Morejon SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Travis Bergen P | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Flores RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kacy Clemens P | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Braulio Lara SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Rijo SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Burdi RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Spencer Adams SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,R.C. Orlan P | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoanys Quiala RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Carlos Carrasco SP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Gonzalez SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Phillips RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Dykstra RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Torres RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Julio Eusebio RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Jensen RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam McWilliams P | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Albers SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ranger Suarez SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gabe Speier RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Sergio Romo RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Meyer SP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Gonzalez RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bobby Poyner RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lucas Long RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Belisle RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Brebbia RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Garcia RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler DeLoach SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mark Leiter RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Mayers RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dixon Llorens P | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keynan Middleton RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nolan Blackwood RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Groome SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Reed RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ivan Maldonado RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Louis Coleman RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Christian Binford SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Jewell RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paco Rodriguez RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Morgan RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Benitez SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle McGrath RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Troy Scribner SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jairo Solis SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Additon SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cole Johnson RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Ramsey RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Mader P | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Higgins RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Vasquez SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Lively SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keegan Yuhl RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Pimentel SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wil Crowe SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wander Perez RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jonathon Niese SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Max Fried SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Pirela P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Castillo RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Oberg RP | COL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Zouzalik RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eric Skoglund SP | KC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Emilio Vargas SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Holmes RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Lail SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joely Rodriguez RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Gardewine RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Charlie Morton SP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Raul Alcantara SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dace Kime SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Warren RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francisco Rodriguez RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Vasquez RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Robinson RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Will Lamb RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Artie Lewicki RP | DET ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paul Smyth RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Jake Junis SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Thurman SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Carroll RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Darin Gillies P | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andury Acevedo RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Braxton Garrett SP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Kirby Yates RP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryne Stanek RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Lyles RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Mike Foltynewicz SP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yaisel Sierra SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Anderson RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Navas RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Matuella SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Steven Brault RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Lackey SP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chase Johnson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wil Browning RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Patino SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Fernando Salas RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brandon Lawson P | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Zack Godley SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gerson Garabito SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edgar Osuna SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Ryan Borucki SP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matthew Liberatore SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Lovvorn SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Zack Greinke SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Branden Pinder RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elijah Morgan SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Alvarez RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Franklyn Kilome SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Tuivailala RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesus Reyes RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Erik Johnson SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Cox SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Church RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Zion Iron Lions,Pat Neshek RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hunter Strickland RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Balog SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Roberto Gomez RP | PIT ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Brinley P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Arrowood P | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Howard RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Ruiz RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johan Yan RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alvaro Seijas SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Case RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,D.L. Hall SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Morin RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Hyun-Jin Ryu SP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Damion Carroll RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Enrique Burgos RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Schugel RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tristan Beck RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Runion RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Arnaldo Hernandez P | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Palumbo SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Flemer RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Floro RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Harrison P | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Griep RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jorge Lopez RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Dominguez RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tommy Layne RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Bummer RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Karns SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Walker Lockett SP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Klimesh RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Thompson RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jared Miller RP | ARI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Frank Duncan RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Casey Crosby SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Clay Buchholz SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Oscar De La Cruz SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Warmoth RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edinson Volquez SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Faria SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cam Hill RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ramon Benjamin SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chasen Shreve RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Wort RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+keeper quality boating accidents,Aroldis Chapman RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Skulina P | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Covey SP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Gallen SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hector Santiago RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Wade Miley SP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Victor Mateo SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Todd Van Steensel RP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Palmquist P | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Bush RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Olczak RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Francisco Liriano SP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Graham RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Cashner SP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Walker Weickel RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yoan Lopez RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Herb SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Corey Walter RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brent Suter SP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wandy Peralta RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Homer Bailey SP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blaine Knight SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Diekman RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kyle Young SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trey Wingenter RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Blackham RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alec Kenilvort RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Domingo Tapia SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Santos RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Parker Dunshee SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trey Ball SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cody Sedlock SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Randy Rosario RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Christian Bergman SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dietrich Enns SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Evans SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Shackelford RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Johnny and the Rockers,Justin Verlander SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Sanchez RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trevor Richards SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sandy Baez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Carlos Gonzalez P | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Valdespina RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zach Thornton RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Grant Holmes SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Locke St. John RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Jimenez RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Julian Fernandez RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Konner Wade SP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ljay Newsome SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Johan Belisario P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Wood RP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Leftwich RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Purke RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alberto Baldonado RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Kuzminsky RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Buddy Borden RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chad Green RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bo Takahashi P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Heath RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tahnaj Thomas SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kris Hall P | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Paul Voelker P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nate Reed P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shaun Anderson SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Alvarez RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Paniagua RP | CHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Slade Smith P | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trey Supak P | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Neftali Feliz RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Needy SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Vance Worley RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adonis Uceta RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Lindgren RP | ATL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan De Paula SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eddie Gamboa RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Clay Holmes RP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dean Kremer SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jason Garcia RP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Rob Kaminsky RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Nicasio RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Brasier RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Franklin SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Albers RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luke Gregerson RP | STL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Wong SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Mariot RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Hansel Robles RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alexi Ogando RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edwin Fierro RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Wendolyn Bautista RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mason McCullough RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shawn Armstrong RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Miller RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Beliveau RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cameron Varga P | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Kussmaul RP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Taveras SP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ben Rowen RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Evan Rutckyj RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Felix Pena SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Medina SP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Cackleberry Czars,Nathan Eovaldi SP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyson Perez P | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Brett Anderson SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Pennington SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Martinez SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jackson McClelland P | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Tomshaw P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Confesor Lara RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tanner Anderson RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jon Edwards RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Josh Rogers SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Perry RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Felix Doubront SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adalberto Mejia SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Barlow RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ranfi Casimiro RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,J.B. Wendelken RP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Buck Farmer RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Droitwich Murdercocks,Wade LeBlanc SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Oxnevad SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Martin Agosta SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Teague P | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brady Singer SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keegan Akin SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Guerrero SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sammy Solis RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Eduard Santos P | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austen Williams RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Reed Garrett RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ray Black RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Casey Kelly RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Emilio Pagan RP | TB ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anthony Swarzak RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jesse Chavez RP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chase Whitley RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Justin Shafer RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kendall Graveman SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Kinley RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Zac Houston RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Vincent RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kelvin Herrera RP | CHW ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Curtis Taylor RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Stephen Tarpley RP | NYY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Spencer Herrmann RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Kevin Comer RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Smith SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Pazos RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Paulson RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brock Huntzinger RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edward Paredes RP | PHI ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Vanegas RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Preston Claiborne RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Drew Storen RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Gerardo Reyes RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Enny Romero RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luiz Gohara RP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,John Stilson SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Union State Connectors,Dylan Bundy SP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Kent RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Taylor SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Elieser Hernandez RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bud Jeter P | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Young SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shea Spitzbarth RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+DickCards,Yu Darvish SP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Strahm RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,James Kaprielian SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Michael Boyle P | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Keury Mella RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Pressly RP | HOU ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yankory Pimentel RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Danish RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yender Caramo RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edward Cabrera SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Mike Augliera RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Oviedo SP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Heredia SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jose Valdez RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Hale RP | NYY ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Caleb Thielbar RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Blake Snell SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Danny Rosenbaum SP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brett Adcock SP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Bus 3,Mike Leake SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Alex Wilson RP | DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Barnes RP | BOS ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dennis Santana RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Triston McKenzie SP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Walk-In Closets,Drew Steckenrider RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jimmy Lambert SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Anderson Espinoza SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Clippard RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Adam Wainwright SP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Speer RP | CLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Parker RP | MIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nolan Sanburn SP | CHW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Pedro Avila SP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Chris Rowley RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daulton Jefferies SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Marcus Stroman SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Rumbelow RP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dedgar Jimenez RP | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Albert Suarez RP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeurys Familia RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Sam Carlson SP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Scott Copeland RP | NYM ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Mahle SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Bashlor RP | NYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Sanchez SP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joe Gatto SP | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,A.J. Puckett SP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tyler Mapes P | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brian Ellington RP | MIA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tom Koehler RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake McCasland RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bobby Wahl RP | MIL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Cook RP | SEA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Geno Encina RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Johansen SP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Phelps RP | TOR ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Loup RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Luis Madero P | LAA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yefry Ramirez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Shane Baz SP | PIT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Aaron Wilkerson RP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Miguel Nunez RP | PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dusty Isaacs RP | TOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Daniel Ponce de Leon RP | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dylan Unsworth SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,David Hurlbut SP | TEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Grayson Rodriguez SP | BAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Skylar Szynski SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jordan Romano RP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Austin Wright RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jeff Brigham SP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lewis Thorpe SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Krol RP | CIN ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Oliver Perez RP | CLE ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jake Newberry RP | KC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Nick Hernandez RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+12oz Darlings,Edwin Jackson SP | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Bryan Shaw RP | COL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Edwin Quirarte RP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+University of Woolloomooloo Philosophy Department,Mike Montgomery RP | CHC ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Juan Caballero RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Brad Ziegler RP | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Jacob Dahlstrand P | BOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Craig Stammen RP | SD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Tim Collins RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Anderson SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+The Midnight Sillies,Mychal Givens RP | BAL ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Boone Whiting P | STL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Andrew Barbosa SP | MIL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Matt Krook SP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Amir Garrett RP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dakota Chalmers SP | OAK ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Yimi Garcia RP | LAD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Blake Logan P | MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ryan Eades SP | MIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Trey Cochran-Gill P | OAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cole Sulser RP | TB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Ian Kahaloa SP | CIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Cam Bedrosian RP | LAA ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Joey Wentz SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Garrett Richards SP | SD ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Dean Deetz RP | HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Roman Mendez RP | WAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Terry Doyle SP | ARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Enderson Franco SP | SF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Huascar Ynoa SP | ATL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Lance Lynn SP | TEX ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Peter Tago SP | SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+W ,Malcom Culver RP | LAD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9999
+Report Updated as of  2/3/19 10:06 AM EST,,,,,,,,,,,,,,,,,

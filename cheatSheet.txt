@@ -1,0 +1,1197 @@
+Fantasy Baseball 2019 Projections
+SP
+  1 *Gerrit Cole          23.9
+  2 *Justin Verlander     22.8
+  3 *Max Scherzer         21.8
+  4 *Jacob deGrom         19.7
+  5 *Chris Sale           18.1
+  6 *Stephen Strasburg    16.6
+  7 *Walker Buehler       15.6
+  8 *Jack Flaherty        15.5
+  9 *Blake Snell          15.1
+ 10 *Lucas Giolito        14.9
+ 11 *Clayton Kershaw      14.3
+ 12 *Shane Bieber         13.7
+ 13 *Charlie Morton       13.5
+ 14 *Aaron Nola           13.2
+ 15 *Trevor Bauer         12.7
+ 16 *Tyler Glasnow        12.1
+ 17 *Patrick Corbin       12.0
+ 18 *Yu Darvish           12.0
+ 19 *Luis Castillo        11.8
+ 20 *Noah Syndergaard     11.4
+ 21 *Mike Clevinger       10.8
+ 22 *Zack Greinke         10.5
+ 23 *Carlos Carrasco      10.4
+ 24 *Lance Lynn           10.2
+ 25 *Brandon Woodruff     10.0
+ 26 *Corey Kluber         9.5
+ 27 Robbie Ray           9.5
+ 28 *German Marquez       9.5
+ 29 *Chris Paddack        9.4
+ 30 *Sonny Gray           9.3
+ 31 *Eduardo Rodriguez    9.2
+ 32 *Max Fried            9.0
+ 33 *Frankie Montas       8.6
+ 34 *Jose Berrios         8.6
+ 35 *Andrew Heaney        8.5
+ 36 David Price          8.3
+ 37 *Zack Wheeler         8.2
+ 38 Jake Odorizzi        8.0
+ 39 Jon Gray             7.8
+ 40 *Dinelson Lamet       7.8
+ 41 *Mike Soroka          7.7
+ 42 *Hyun-Jin Ryu         7.4
+ 43 *Luis Severino        7.4
+ 44 *Kyle Hendricks       7.2
+ 45 *Jesus Luzardo        7.1
+ 46 Matthew Boyd         7.0
+ 47 Chris Archer         6.9
+ 48 *Zac Gallen           6.8
+ 49 Mike Minor           6.8
+ 50 Garrett Richards     6.8
+ 51 Joey Lucchesi        6.7
+ 52 *Madison Bumgarner    6.7
+ 53 Joe Musgrove         6.6
+ 54 *James Paxton         6.5
+ 55 Caleb Smith          6.2
+ 56 Dylan Bundy          6.2
+ 57 A.J. Puk             6.1
+ 58 Kenta Maeda          5.8
+ 59 Marcus Stroman       5.8
+ 60 Jose Quintana        5.7
+ 61 Masahiro Tanaka      5.4
+ 62 Lance McCullers      5.3
+ 63 Kevin Gausman        5.3
+ 64 Jose Urquidy         5.0
+ 65 Carlos Martinez      5.0
+ 66 Mike Foltynewicz     4.9
+ 67 Josh Lindblom        4.8
+ 68 Rick Porcello        4.7
+ 69 Sean Manaea          4.6
+ 70 Josh James           4.6
+ 71 *Julio Urias          4.6
+ 72 Dallas Keuchel       4.4
+ 73 Johnny Cueto         4.3
+ 74 Marco Gonzales       4.1
+ 75 Mitch Keller         3.9
+ 76 Griffin Canning      3.8
+ 77 Anthony DeSclafani   3.8
+ 78 Luke Weaver          3.8
+ 79 Steven Matz          3.6
+ 80 Pablo Lopez          3.6
+ 81 Jeff Samardzija      3.5
+ 82 Cole Hamels          3.5
+ 83 Jon Lester           3.5
+ 84 Adrian Houser        3.4
+ 85 Vince Velasquez      3.4
+ 86 J.A. Happ            3.1
+ 87 Jake Junis           3.0
+ 88 Danny Duffy          2.8
+ 89 *Shohei Ohtani        2.8
+ 90 Tanner Roark         2.7
+ 91 Alex Wood            2.6
+ 92 Eric Lauer           2.4
+ 93 Yonny Chirinos       2.3
+ 94 Nathan Eovaldi       2.2
+ 95 Jake Arrieta         2.1
+ 96 Kyle Gibson          1.9
+ 97 Matt Shoemaker       1.9
+ 98 Adam Wainwright      1.9
+ 99 Brendan McKay        1.8
+100 Julio Teheran        1.7
+101 Reynaldo Lopez       1.6
+102 Michael Pineda       1.4
+103 Yusei Kikuchi        1.3
+104 Sean Newcomb         1.2
+105 John Means           1.1
+106 Mike Fiers           1.1
+107 Dylan Cease          1.0
+108 Daniel Norris        1.0
+109 Trevor Williams      1.0
+110 Drew Smyly           1.0
+111 Dakota Hudson        0.9
+112 Dustin May           0.9
+113 Sandy Alcantara      0.8
+114 Spencer Turnbull     0.8
+115 Wade Miley           0.7
+116 Aaron Civale         0.7
+117 Chris Bassitt        0.7
+118 Zach Eflin           0.6
+119 Anibal Sanchez       0.6
+120 Mike Leake           0.6
+
+RP
+  1 *Josh Hader           9.4
+  2 *Aroldis Chapman      8.7
+  3 *Edwin Diaz           8.3
+  4 *Kirby Yates          8.3
+  5 *Craig Kimbrel        7.8
+  6 *Liam Hendriks        7.7
+  7 *Kenley Jansen        7.7
+  8 *Brad Hand            7.0
+  9 *Roberto Osuna        6.9
+ 10 *Ken Giles            6.5
+ 11 *Raisel Iglesias      6.3
+ 12 *Nick Anderson        5.8
+ 13 *Brandon Workman      5.8
+ 14 *Taylor Rogers        5.7
+ 15 *Hector Neris         5.7
+ 16 *Keone Kela           5.5
+ 17 Joe Jimenez          5.5
+ 18 Jose Leclerc         5.2
+ 19 Archie Bradley       5.2
+ 20 *Alex Colome          4.0
+ 21 *Giovanny Gallegos    3.2
+ 22 Ian Kennedy          3.2
+ 23 *Hansel Robles        3.0
+ 24 Will Smith           2.9
+ 25 *Sean Doolittle       2.5
+ 26 Tony Watson          2.2
+ 27 Brandon Kintzler     1.9
+ 28 Mychal Givens        1.7
+ 29 Matt Barnes          1.6
+ 30 Wade Davis           1.2
+ 31 Mark Melancon        1.1
+ 32 Ryan Pressly         0.7
+ 33 Jose Alvarado        0.6
+ 34 Daniel Hudson        0.6
+ 35 Diego Castillo       0.2
+ 36 Dellin Betances      0.2
+ 37 Matt Magill          0.1
+ 38 Andrew Miller        0.1
+ 39 Seth Lugo            -0.1
+
+C
+  1 *J.T. Realmuto        9.8
+  2 *Gary Sanchez         7.3
+  3 Salvador Perez       6.4
+  4 Yasmani Grandal      5.6
+  5 Will Smith           3.0
+  6 Willson Contreras    2.7
+  7 Christian Vazquez    2.6
+  8 Mitch Garver         2.2
+  9 Tom Murphy           1.9
+ 10 Wilson Ramos         1.7
+ 11 Yadier Molina        1.6
+ 12 Buster Posey         1.5
+ 13 Carson Kelly         0.7
+ 14 Travis d'Arnaud      0.4
+ 15 Sean Murphy          0.0
+ 16 Jorge Alfaro         0.0
+
+1B
+  1 *Cody Bellinger       18.1
+  2 *Freddie Freeman      13.4
+  3 *Anthony Rizzo        11.2
+  4 *Pete Alonso          10.7
+  5 *Paul Goldschmidt     9.3
+  6 *Matt Olson           9.2
+  7 *Josh Bell            8.5
+  8 *Rhys Hoskins         7.9
+  9 *Yuli Gurriel         7.6
+ 10 Trey Mancini         7.4
+ 11 *Jose Abreu           7.4
+ 12 *DJ LeMahieu          6.9
+ 13 *Danny Santana        6.9
+ 14 *Max Muncy            6.6
+ 15 *Carlos Santana       6.6
+ 16 Edwin Encarnacion    5.7
+ 17 Yasmani Grandal      5.6
+ 18 Daniel Murphy        4.5
+ 19 Joey Votto           4.3
+ 20 Renato Nunez         3.9
+ 21 C.J. Cron            3.9
+ 22 Eric Hosmer          3.7
+ 23 Christian Walker     3.0
+ 24 Joc Pederson         1.9
+ 25 Michael Chavis       0.9
+ 26 Eric Thames          0.7
+ 27 Travis d'Arnaud      0.4
+ 28 Albert Pujols        0.1
+
+2B
+  1 *Gleyber Torres       13.6
+  2 *Jose Altuve          12.8
+  3 *Ozzie Albies         11.8
+  4 *Jonathan Villar      11.4
+  5 *Keston Hiura         10.5
+  6 *Ketel Marte          10.0
+  7 *Whit Merrifield      9.2
+  8 *Mike Moustakas       8.7
+  9 *Jeff McNeil          7.0
+ 10 *DJ LeMahieu          6.9
+ 11 *Eduardo Escobar      6.7
+ 12 Rougned Odor         6.7
+ 13 *Max Muncy            6.6
+ 14 *Kolten Wong          4.9
+ 15 Jonathan Schoop      4.1
+ 16 *Gavin Lux            3.9
+ 17 Ryan McMahon         3.9
+ 18 Niko Goodrum         3.4
+ 19 Cavan Biggio         3.2
+ 20 Brandon Lowe         3.1
+ 21 Kevin Newman         2.8
+ 22 Starlin Castro       2.2
+ 23 Cesar Hernandez      1.7
+ 24 Jurickson Profar     1.6
+ 25 Nick Madrigal        1.5
+ 26 *Tommy Edman          1.4
+ 27 Luis Arraez          1.3
+ 28 Hanser Alberto       1.2
+ 29 Michael Chavis       0.9
+ 30 Adam Frazier         0.8
+ 31 Freddy Galvis        0.3
+ 32 Mauricio Dubon       0.2
+
+3B
+  1 *Jose Ramirez         17.2
+  2 *Nolan Arenado        14.9
+  3 *Rafael Devers        13.6
+  4 *Alex Bregman         13.3
+  5 *Manny Machado        10.9
+  6 *Anthony Rendon       10.0
+  7 *Yoan Moncada         9.6
+  8 *Eugenio Suarez       9.2
+  9 *Kris Bryant          9.0
+ 10 *Miguel Sano          8.8
+ 11 *Josh Donaldson       8.8
+ 12 *Mike Moustakas       8.7
+ 13 *Matt Chapman         8.6
+ 14 *Yuli Gurriel         7.6
+ 15 *Vladimir Guerrero    7.6
+ 16 *Jeff McNeil          7.0
+ 17 *DJ LeMahieu          6.9
+ 18 *Eduardo Escobar      6.7
+ 19 *Max Muncy            6.6
+ 20 Justin Turner        5.9
+ 21 Scott Kingery        4.6
+ 22 Hunter Dozier        4.1
+ 23 Ryan McMahon         3.9
+ 24 Gio Urshela          3.7
+ 25 Brian Anderson       3.6
+ 26 Kyle Seager          3.2
+ 27 Starlin Castro       2.2
+ 28 Todd Frazier         2.0
+ 29 J.D. Davis           1.8
+ 30 *Tommy Edman          1.4
+ 31 Hanser Alberto       1.2
+ 32 Matt Carpenter       0.5
+ 33 Maikel Franco        0.3
+ 34 Evan Longoria        0.2
+
+SS
+  1 *Trea Turner          17.9
+  2 *Adalberto Mondesi    16.5
+  3 *Trevor Story         16.5
+  4 *Francisco Lindor     16.2
+  5 *Fernando Tatis       13.7
+  6 *Javier Baez          13.6
+  7 *Gleyber Torres       13.6
+  8 *Alex Bregman         13.3
+  9 *Bo Bichette          12.9
+ 10 *Jonathan Villar      11.4
+ 11 *Manny Machado        10.9
+ 12 *Xander Bogaerts      10.7
+ 13 *Carlos Correa        9.7
+ 14 *Tim Anderson         9.5
+ 15 *Marcus Semien        9.5
+ 16 Elvis Andrus         8.0
+ 17 Amed Rosario         7.6
+ 18 Paul DeJong          7.2
+ 19 Didi Gregorius       6.7
+ 20 *Jorge Polanco        6.7
+ 21 Jean Segura          6.3
+ 22 Corey Seager         5.7
+ 23 Andrelton Simmons    4.0
+ 24 Niko Goodrum         3.4
+ 25 Dansby Swanson       3.4
+ 26 Nick Ahmed           3.3
+ 27 Kevin Newman         2.8
+ 28 Willy Adames         2.5
+ 29 Jose Iglesias        1.1
+ 30 Freddy Galvis        0.3
+ 31 Carter Kieboom       0.2
+
+RF
+  1 *Ronald Acuna         20.2
+  2 *Christian Yelich     19.8
+  3 *Cody Bellinger       18.1
+  4 *Mookie Betts         15.2
+  5 *Bryce Harper         14.1
+  6 *J.D. Martinez        13.6
+  7 *George Springer      11.4
+  8 *Aaron Judge          11.3
+  9 *Charlie Blackmon     9.7
+ 10 *Whit Merrifield      9.2
+ 11 *Kris Bryant          9.0
+ 12 *Austin Meadows       8.7
+ 13 *Jorge Soler          8.5
+ 14 Mallex Smith         8.1
+ 15 *Franmil Reyes        7.7
+ 16 Trey Mancini         7.4
+ 17 David Dahl           7.1
+ 18 *Jeff McNeil          7.0
+ 19 *Michael Conforto     7.0
+ 20 *Max Kepler           6.9
+ 21 *Nick Castellanos     5.7
+ 22 Adam Eaton           5.4
+ 23 Bryan Reynolds       4.5
+ 24 Yasiel Puig          4.5
+ 25 Mark Canha           4.5
+ 26 Shin-Soo Choo        4.4
+ 27 Hunter Dozier        4.1
+ 28 Randal Grichuk       3.9
+ 29 Gregory Polanco      3.8
+ 30 Brian Anderson       3.6
+ 31 Alex Verdugo         3.6
+ 32 Anthony Santander    2.8
+ 33 Kole Calhoun         2.8
+ 34 Hunter Renfroe       2.7
+ 35 Avisail Garcia       2.3
+ 36 Joc Pederson         1.9
+ 37 Nomar Mazara         1.7
+ 38 Mike Yastrzemski     1.6
+ 39 Jason Heyward        0.2
+ 40 Dexter Fowler        0.1
+
+CF
+  1 *Mike Trout           20.9
+  2 *Ronald Acuna         20.2
+  3 *Cody Bellinger       18.1
+  4 *Starling Marte       13.9
+  5 *Joey Gallo           12.3
+  6 *Victor Robles        11.6
+  7 *George Springer      11.4
+  8 *Luis Robert          10.8
+  9 *Ketel Marte          10.0
+ 10 Byron Buxton         9.2
+ 11 *Ramon Laureano       8.4
+ 12 Mallex Smith         8.1
+ 13 David Dahl           7.1
+ 14 *Michael Conforto     7.0
+ 15 *Max Kepler           6.9
+ 16 *Danny Santana        6.9
+ 17 Oscar Mercado        5.7
+ 18 Lorenzo Cain         5.2
+ 19 Scott Kingery        4.6
+ 20 Bryan Reynolds       4.5
+ 21 Mark Canha           4.5
+ 22 Randal Grichuk       3.9
+ 23 Alex Verdugo         3.6
+ 24 Jackie Bradley       3.3
+ 25 Anthony Santander    2.8
+ 26 Austin Hays          2.4
+ 27 Teoscar Hernandez    2.1
+ 28 Brett Gardner        1.7
+ 29 Kevin Kiermaier      1.3
+ 30 Trent Grisham        1.0
+ 31 Jason Heyward        0.2
+ 32 Dexter Fowler        0.1
+ 33 Shogo Akiyama        0.0
+
+LF
+  1 *Ronald Acuna         20.2
+  2 *Juan Soto            15.8
+  3 *Joey Gallo           12.3
+  4 *Giancarlo Stanton    12.0
+  5 *Marcell Ozuna        10.5
+  6 *Eddie Rosario        10.0
+  7 *Tommy Pham           9.8
+  8 *Kris Bryant          9.0
+  9 *Austin Meadows       8.7
+ 10 *Eloy Jimenez         8.6
+ 11 *Kyle Schwarber       7.2
+ 12 David Dahl           7.1
+ 13 *Jeff McNeil          7.0
+ 14 *Andrew Benintendi    6.9
+ 15 Justin Upton         6.6
+ 16 *Michael Brantley     6.1
+ 17 Lourdes Gurriel      6.1
+ 18 Oscar Mercado        5.7
+ 19 Andrew McCutchen     4.9
+ 20 *Kyle Tucker          4.7
+ 21 Bryan Reynolds       4.5
+ 22 Willie Calhoun       4.5
+ 23 Shin-Soo Choo        4.4
+ 24 David Peralta        3.7
+ 25 Ryan Braun           3.6
+ 26 Alex Verdugo         3.6
+ 27 Niko Goodrum         3.4
+ 28 Anthony Santander    2.8
+ 29 Hunter Renfroe       2.7
+ 30 Teoscar Hernandez    2.1
+ 31 Joc Pederson         1.9
+ 32 J.D. Davis           1.8
+ 33 Brett Gardner        1.7
+ 34 Mike Yastrzemski     1.6
+ 35 Luis Arraez          1.3
+ 36 Tyler O'Neill        1.0
+ 37 Corey Dickerson      0.7
+ 38 Mike Tauchman        0.7
+ 39 Ian Happ             0.3
+
+DH
+
+MI
+  1 *Trea Turner          17.9
+  2 *Adalberto Mondesi    16.5
+  3 *Trevor Story         16.5
+  4 *Francisco Lindor     16.2
+  5 *Fernando Tatis       13.7
+  6 *Javier Baez          13.6
+  7 *Gleyber Torres       13.6
+  8 *Alex Bregman         13.3
+  9 *Bo Bichette          12.9
+ 10 *Jose Altuve          12.8
+ 11 *Ozzie Albies         11.8
+ 12 *Jonathan Villar      11.4
+ 13 *Manny Machado        10.9
+ 14 *Xander Bogaerts      10.7
+ 15 *Keston Hiura         10.5
+ 16 *Ketel Marte          10.0
+ 17 *Carlos Correa        9.7
+ 18 *Tim Anderson         9.5
+ 19 *Marcus Semien        9.5
+ 20 *Whit Merrifield      9.2
+ 21 *Mike Moustakas       8.7
+ 22 Elvis Andrus         8.0
+ 23 Amed Rosario         7.6
+ 24 Paul DeJong          7.2
+ 25 *Jeff McNeil          7.0
+ 26 *DJ LeMahieu          6.9
+ 27 *Danny Santana        6.9
+ 28 Didi Gregorius       6.7
+ 29 *Eduardo Escobar      6.7
+ 30 *Jorge Polanco        6.7
+ 31 Rougned Odor         6.7
+ 32 *Max Muncy            6.6
+ 33 Jean Segura          6.3
+ 34 Corey Seager         5.7
+ 35 *Kolten Wong          4.9
+ 36 Scott Kingery        4.6
+ 37 Jonathan Schoop      4.1
+ 38 Andrelton Simmons    4.0
+ 39 *Gavin Lux            3.9
+ 40 Ryan McMahon         3.9
+ 41 Niko Goodrum         3.4
+ 42 Dansby Swanson       3.4
+ 43 Nick Ahmed           3.3
+ 44 Cavan Biggio         3.2
+ 45 Brandon Lowe         3.1
+ 46 Kevin Newman         2.8
+ 47 Willy Adames         2.5
+ 48 Starlin Castro       2.2
+ 49 Cesar Hernandez      1.7
+ 50 Jurickson Profar     1.6
+ 51 Nick Madrigal        1.5
+ 52 *Tommy Edman          1.4
+ 53 Luis Arraez          1.3
+ 54 Hanser Alberto       1.2
+ 55 Jose Iglesias        1.1
+ 56 Michael Chavis       0.9
+ 57 Adam Frazier         0.8
+ 58 Freddy Galvis        0.3
+ 59 Carter Kieboom       0.2
+ 60 Mauricio Dubon       0.2
+
+CI
+  1 *Cody Bellinger       18.1
+  2 *Jose Ramirez         17.2
+  3 *Nolan Arenado        14.9
+  4 *Rafael Devers        13.6
+  5 *Freddie Freeman      13.4
+  6 *Alex Bregman         13.3
+  7 *Anthony Rizzo        11.2
+  8 *Manny Machado        10.9
+  9 *Pete Alonso          10.7
+ 10 *Anthony Rendon       10.0
+ 11 *Yoan Moncada         9.6
+ 12 *Paul Goldschmidt     9.3
+ 13 *Matt Olson           9.2
+ 14 *Eugenio Suarez       9.2
+ 15 *Kris Bryant          9.0
+ 16 *Miguel Sano          8.8
+ 17 *Josh Donaldson       8.8
+ 18 *Mike Moustakas       8.7
+ 19 *Matt Chapman         8.6
+ 20 *Josh Bell            8.5
+ 21 *Rhys Hoskins         7.9
+ 22 *Yuli Gurriel         7.6
+ 23 *Vladimir Guerrero    7.6
+ 24 Trey Mancini         7.4
+ 25 *Jose Abreu           7.4
+ 26 *Jeff McNeil          7.0
+ 27 *DJ LeMahieu          6.9
+ 28 *Danny Santana        6.9
+ 29 *Eduardo Escobar      6.7
+ 30 *Max Muncy            6.6
+ 31 *Carlos Santana       6.6
+ 32 Justin Turner        5.9
+ 33 Edwin Encarnacion    5.7
+ 34 Yasmani Grandal      5.6
+ 35 Scott Kingery        4.6
+ 36 Daniel Murphy        4.5
+ 37 Joey Votto           4.3
+ 38 Hunter Dozier        4.1
+ 39 Ryan McMahon         3.9
+ 40 Renato Nunez         3.9
+ 41 C.J. Cron            3.9
+ 42 Gio Urshela          3.7
+ 43 Eric Hosmer          3.7
+ 44 Brian Anderson       3.6
+ 45 Kyle Seager          3.2
+ 46 Christian Walker     3.0
+ 47 Starlin Castro       2.2
+ 48 Todd Frazier         2.0
+ 49 Joc Pederson         1.9
+ 50 J.D. Davis           1.8
+ 51 *Tommy Edman          1.4
+ 52 Hanser Alberto       1.2
+ 53 Michael Chavis       0.9
+ 54 Eric Thames          0.7
+ 55 Matt Carpenter       0.5
+ 56 Travis d'Arnaud      0.4
+ 57 Maikel Franco        0.3
+ 58 Evan Longoria        0.2
+ 59 Albert Pujols        0.1
+
+OF
+  1 *Mike Trout           20.9
+  2 *Ronald Acuna         20.2
+  3 *Christian Yelich     19.8
+  4 *Cody Bellinger       18.1
+  5 *Juan Soto            15.8
+  6 *Mookie Betts         15.2
+  7 *Bryce Harper         14.1
+  8 *Starling Marte       13.9
+  9 *J.D. Martinez        13.6
+ 10 *Joey Gallo           12.3
+ 11 *Giancarlo Stanton    12.0
+ 12 *Victor Robles        11.6
+ 13 *George Springer      11.4
+ 14 *Aaron Judge          11.3
+ 15 *Luis Robert          10.8
+ 16 *Marcell Ozuna        10.5
+ 17 *Ketel Marte          10.0
+ 18 *Eddie Rosario        10.0
+ 19 *Tommy Pham           9.8
+ 20 *Charlie Blackmon     9.7
+ 21 Byron Buxton         9.2
+ 22 *Whit Merrifield      9.2
+ 23 *Kris Bryant          9.0
+ 24 *Austin Meadows       8.7
+ 25 *Eloy Jimenez         8.6
+ 26 *Jorge Soler          8.5
+ 27 *Ramon Laureano       8.4
+ 28 Mallex Smith         8.1
+ 29 *Franmil Reyes        7.7
+ 30 Trey Mancini         7.4
+ 31 *Kyle Schwarber       7.2
+ 32 David Dahl           7.1
+ 33 *Jeff McNeil          7.0
+ 34 *Michael Conforto     7.0
+ 35 *Max Kepler           6.9
+ 36 *Andrew Benintendi    6.9
+ 37 *Danny Santana        6.9
+ 38 Justin Upton         6.6
+ 39 *Michael Brantley     6.1
+ 40 Lourdes Gurriel      6.1
+ 41 Oscar Mercado        5.7
+ 42 *Nick Castellanos     5.7
+ 43 Adam Eaton           5.4
+ 44 Lorenzo Cain         5.2
+ 45 Andrew McCutchen     4.9
+ 46 *Kyle Tucker          4.7
+ 47 Scott Kingery        4.6
+ 48 Bryan Reynolds       4.5
+ 49 Willie Calhoun       4.5
+ 50 Yasiel Puig          4.5
+ 51 Mark Canha           4.5
+ 52 Shin-Soo Choo        4.4
+ 53 Hunter Dozier        4.1
+ 54 Randal Grichuk       3.9
+ 55 Gregory Polanco      3.8
+ 56 David Peralta        3.7
+ 57 Ryan Braun           3.6
+ 58 Brian Anderson       3.6
+ 59 Alex Verdugo         3.6
+ 60 Niko Goodrum         3.4
+ 61 Jackie Bradley       3.3
+ 62 Anthony Santander    2.8
+ 63 Kole Calhoun         2.8
+ 64 Hunter Renfroe       2.7
+ 65 Austin Hays          2.4
+ 66 Avisail Garcia       2.3
+ 67 Teoscar Hernandez    2.1
+ 68 Joc Pederson         1.9
+ 69 J.D. Davis           1.8
+ 70 Nomar Mazara         1.7
+ 71 Brett Gardner        1.7
+ 72 Mike Yastrzemski     1.6
+ 73 Kevin Kiermaier      1.3
+ 74 Luis Arraez          1.3
+ 75 Tyler O'Neill        1.0
+ 76 Trent Grisham        1.0
+ 77 Corey Dickerson      0.7
+ 78 Mike Tauchman        0.7
+ 79 Ian Happ             0.3
+ 80 Jason Heyward        0.2
+ 81 Dexter Fowler        0.1
+ 82 Shogo Akiyama        0.0
+
+U
+  1 *Mike Trout           20.9
+  2 *Ronald Acuna         20.2
+  3 *Christian Yelich     19.8
+  4 *Cody Bellinger       18.1
+  5 *Trea Turner          17.9
+  6 *Jose Ramirez         17.2
+  7 *Adalberto Mondesi    16.5
+  8 *Trevor Story         16.5
+  9 *Francisco Lindor     16.2
+ 10 *Juan Soto            15.8
+ 11 *Mookie Betts         15.2
+ 12 *Nolan Arenado        14.9
+ 13 *Bryce Harper         14.1
+ 14 *Starling Marte       13.9
+ 15 *Fernando Tatis       13.7
+ 16 *J.D. Martinez        13.6
+ 17 *Javier Baez          13.6
+ 18 *Gleyber Torres       13.6
+ 19 *Rafael Devers        13.6
+ 20 *Freddie Freeman      13.4
+ 21 *Alex Bregman         13.3
+ 22 *Bo Bichette          12.9
+ 23 *Jose Altuve          12.8
+ 24 *Joey Gallo           12.3
+ 25 *Giancarlo Stanton    12.0
+ 26 *Ozzie Albies         11.8
+ 27 *Victor Robles        11.6
+ 28 *Yordan Alvarez       11.4
+ 29 *George Springer      11.4
+ 30 *Jonathan Villar      11.4
+ 31 *Aaron Judge          11.3
+ 32 *Nelson Cruz          11.2
+ 33 *Anthony Rizzo        11.2
+ 34 *Manny Machado        10.9
+ 35 *Luis Robert          10.8
+ 36 *Xander Bogaerts      10.7
+ 37 *Pete Alonso          10.7
+ 38 *Marcell Ozuna        10.5
+ 39 *Keston Hiura         10.5
+ 40 *Ketel Marte          10.0
+ 41 *Eddie Rosario        10.0
+ 42 *Anthony Rendon       10.0
+ 43 *Tommy Pham           9.8
+ 44 *J.T. Realmuto        9.8
+ 45 *Shohei Ohtani        9.8
+ 46 *Carlos Correa        9.7
+ 47 *Charlie Blackmon     9.7
+ 48 *Yoan Moncada         9.6
+ 49 *Tim Anderson         9.5
+ 50 *Marcus Semien        9.5
+ 51 *Paul Goldschmidt     9.3
+ 52 Byron Buxton         9.2
+ 53 *Whit Merrifield      9.2
+ 54 *Matt Olson           9.2
+ 55 *Eugenio Suarez       9.2
+ 56 *Kris Bryant          9.0
+ 57 *Miguel Sano          8.8
+ 58 *Josh Donaldson       8.8
+ 59 *Austin Meadows       8.7
+ 60 *Mike Moustakas       8.7
+ 61 *Eloy Jimenez         8.6
+ 62 *Matt Chapman         8.6
+ 63 *Jorge Soler          8.5
+ 64 *Josh Bell            8.5
+ 65 *Ramon Laureano       8.4
+ 66 Mallex Smith         8.1
+ 67 Elvis Andrus         8.0
+ 68 *Rhys Hoskins         7.9
+ 69 *Franmil Reyes        7.7
+ 70 *Yuli Gurriel         7.6
+ 71 *Vladimir Guerrero    7.6
+ 72 Amed Rosario         7.6
+ 73 Trey Mancini         7.4
+ 74 *Jose Abreu           7.4
+ 75 Khris Davis          7.3
+ 76 *Gary Sanchez         7.3
+ 77 *Kyle Schwarber       7.2
+ 78 Paul DeJong          7.2
+ 79 David Dahl           7.1
+ 80 *Jeff McNeil          7.0
+ 81 *Michael Conforto     7.0
+ 82 *Max Kepler           6.9
+ 83 *DJ LeMahieu          6.9
+ 84 *Andrew Benintendi    6.9
+ 85 *Danny Santana        6.9
+ 86 Didi Gregorius       6.7
+ 87 *Eduardo Escobar      6.7
+ 88 *Jorge Polanco        6.7
+ 89 Rougned Odor         6.7
+ 90 *Max Muncy            6.6
+ 91 *Carlos Santana       6.6
+ 92 Justin Upton         6.6
+ 93 Salvador Perez       6.4
+ 94 Jean Segura          6.3
+ 95 *Michael Brantley     6.1
+ 96 Lourdes Gurriel      6.1
+ 97 Justin Turner        5.9
+ 98 Edwin Encarnacion    5.7
+ 99 Oscar Mercado        5.7
+100 *Nick Castellanos     5.7
+101 Corey Seager         5.7
+102 Yasmani Grandal      5.6
+103 Adam Eaton           5.4
+104 Lorenzo Cain         5.2
+105 *Kolten Wong          4.9
+106 Andrew McCutchen     4.9
+107 *Kyle Tucker          4.7
+108 Scott Kingery        4.6
+109 Bryan Reynolds       4.5
+110 Willie Calhoun       4.5
+111 Daniel Murphy        4.5
+112 Yasiel Puig          4.5
+113 Mark Canha           4.5
+114 Shin-Soo Choo        4.4
+115 Joey Votto           4.3
+116 Jonathan Schoop      4.1
+117 Hunter Dozier        4.1
+118 Andrelton Simmons    4.0
+119 *Gavin Lux            3.9
+120 Randal Grichuk       3.9
+121 Ryan McMahon         3.9
+122 Renato Nunez         3.9
+123 C.J. Cron            3.9
+124 Gregory Polanco      3.8
+125 Gio Urshela          3.7
+126 Eric Hosmer          3.7
+127 David Peralta        3.7
+128 Ryan Braun           3.6
+129 Brian Anderson       3.6
+130 Alex Verdugo         3.6
+131 Niko Goodrum         3.4
+132 Dansby Swanson       3.4
+133 Jackie Bradley       3.3
+134 Nick Ahmed           3.3
+135 Cavan Biggio         3.2
+136 Kyle Seager          3.2
+137 Brandon Lowe         3.1
+138 Will Smith           3.0
+139 Christian Walker     3.0
+140 Anthony Santander    2.8
+141 Kevin Newman         2.8
+142 Kole Calhoun         2.8
+143 Hunter Renfroe       2.7
+144 Willson Contreras    2.7
+145 Christian Vazquez    2.6
+146 Willy Adames         2.5
+147 Austin Hays          2.4
+148 Avisail Garcia       2.3
+149 Starlin Castro       2.2
+150 Mitch Garver         2.2
+151 Teoscar Hernandez    2.1
+152 Todd Frazier         2.0
+153 Joc Pederson         1.9
+154 Tom Murphy           1.9
+155 J.D. Davis           1.8
+156 Nomar Mazara         1.7
+157 Wilson Ramos         1.7
+158 Brett Gardner        1.7
+159 Cesar Hernandez      1.7
+160 Jurickson Profar     1.6
+161 Yadier Molina        1.6
+162 Mike Yastrzemski     1.6
+163 Nick Madrigal        1.5
+164 Buster Posey         1.5
+165 *Tommy Edman          1.4
+166 Kevin Kiermaier      1.3
+167 Luis Arraez          1.3
+168 Hanser Alberto       1.2
+169 Nick Solak           1.1
+170 Jose Iglesias        1.1
+171 Tyler O'Neill        1.0
+172 Trent Grisham        1.0
+173 Michael Chavis       0.9
+174 Adam Frazier         0.8
+175 Eric Thames          0.7
+176 Carson Kelly         0.7
+177 Corey Dickerson      0.7
+178 Mike Tauchman        0.7
+179 Miguel Andujar       0.6
+180 Matt Carpenter       0.5
+181 Travis d'Arnaud      0.4
+182 Ian Happ             0.3
+183 Freddy Galvis        0.3
+184 Maikel Franco        0.3
+185 Evan Longoria        0.2
+186 Jason Heyward        0.2
+187 Carter Kieboom       0.2
+188 Mauricio Dubon       0.2
+189 Albert Pujols        0.1
+190 Dexter Fowler        0.1
+191 Sean Murphy          0.0
+192 Shogo Akiyama        0.0
+193 Jorge Alfaro         0.0
+
+Everyone  1 *Gerrit Cole          23.9
+  2 *Justin Verlander     22.8
+  3 *Max Scherzer         21.8
+  4 *Mike Trout           20.9
+  5 *Ronald Acuna         20.2
+  6 *Christian Yelich     19.8
+  7 *Jacob deGrom         19.7
+  8 *Cody Bellinger       18.1
+  9 *Chris Sale           18.1
+ 10 *Trea Turner          17.9
+ 11 *Jose Ramirez         17.2
+ 12 *Stephen Strasburg    16.6
+ 13 *Adalberto Mondesi    16.5
+ 14 *Trevor Story         16.5
+ 15 *Francisco Lindor     16.2
+ 16 *Juan Soto            15.8
+ 17 *Walker Buehler       15.6
+ 18 *Jack Flaherty        15.5
+ 19 *Mookie Betts         15.2
+ 20 *Blake Snell          15.1
+ 21 *Nolan Arenado        14.9
+ 22 *Lucas Giolito        14.9
+ 23 *Clayton Kershaw      14.3
+ 24 *Bryce Harper         14.1
+ 25 *Starling Marte       13.9
+ 26 *Shane Bieber         13.7
+ 27 *Fernando Tatis       13.7
+ 28 *J.D. Martinez        13.6
+ 29 *Javier Baez          13.6
+ 30 *Gleyber Torres       13.6
+ 31 *Rafael Devers        13.6
+ 32 *Charlie Morton       13.5
+ 33 *Freddie Freeman      13.4
+ 34 *Alex Bregman         13.3
+ 35 *Aaron Nola           13.2
+ 36 *Bo Bichette          12.9
+ 37 *Jose Altuve          12.8
+ 38 *Trevor Bauer         12.7
+ 39 *Joey Gallo           12.3
+ 40 *Tyler Glasnow        12.1
+ 41 *Giancarlo Stanton    12.0
+ 42 *Patrick Corbin       12.0
+ 43 *Yu Darvish           12.0
+ 44 *Ozzie Albies         11.8
+ 45 *Luis Castillo        11.8
+ 46 *Victor Robles        11.6
+ 47 *Noah Syndergaard     11.4
+ 48 *Yordan Alvarez       11.4
+ 49 *George Springer      11.4
+ 50 *Jonathan Villar      11.4
+ 51 *Aaron Judge          11.3
+ 52 *Nelson Cruz          11.2
+ 53 *Anthony Rizzo        11.2
+ 54 *Manny Machado        10.9
+ 55 *Mike Clevinger       10.8
+ 56 *Luis Robert          10.8
+ 57 *Xander Bogaerts      10.7
+ 58 *Pete Alonso          10.7
+ 59 *Marcell Ozuna        10.5
+ 60 *Keston Hiura         10.5
+ 61 *Zack Greinke         10.5
+ 62 *Carlos Carrasco      10.4
+ 63 *Lance Lynn           10.2
+ 64 *Brandon Woodruff     10.0
+ 65 *Ketel Marte          10.0
+ 66 *Eddie Rosario        10.0
+ 67 *Anthony Rendon       10.0
+ 68 *Tommy Pham           9.8
+ 69 *J.T. Realmuto        9.8
+ 70 *Shohei Ohtani        9.8
+ 71 *Carlos Correa        9.7
+ 72 *Charlie Blackmon     9.7
+ 73 *Yoan Moncada         9.6
+ 74 *Corey Kluber         9.5
+ 75 Robbie Ray           9.5
+ 76 *German Marquez       9.5
+ 77 *Tim Anderson         9.5
+ 78 *Marcus Semien        9.5
+ 79 *Chris Paddack        9.4
+ 80 *Josh Hader           9.4
+ 81 *Paul Goldschmidt     9.3
+ 82 *Sonny Gray           9.3
+ 83 Byron Buxton         9.2
+ 84 *Whit Merrifield      9.2
+ 85 *Matt Olson           9.2
+ 86 *Eduardo Rodriguez    9.2
+ 87 *Eugenio Suarez       9.2
+ 88 *Kris Bryant          9.0
+ 89 *Max Fried            9.0
+ 90 *Miguel Sano          8.8
+ 91 *Josh Donaldson       8.8
+ 92 *Austin Meadows       8.7
+ 93 *Aroldis Chapman      8.7
+ 94 *Mike Moustakas       8.7
+ 95 *Frankie Montas       8.6
+ 96 *Jose Berrios         8.6
+ 97 *Eloy Jimenez         8.6
+ 98 *Matt Chapman         8.6
+ 99 *Jorge Soler          8.5
+100 *Josh Bell            8.5
+101 *Andrew Heaney        8.5
+102 *Ramon Laureano       8.4
+103 David Price          8.3
+104 *Edwin Diaz           8.3
+105 *Kirby Yates          8.3
+106 *Zack Wheeler         8.2
+107 Mallex Smith         8.1
+108 Elvis Andrus         8.0
+109 Jake Odorizzi        8.0
+110 *Rhys Hoskins         7.9
+111 *Craig Kimbrel        7.8
+112 Jon Gray             7.8
+113 *Dinelson Lamet       7.8
+114 *Liam Hendriks        7.7
+115 *Kenley Jansen        7.7
+116 *Mike Soroka          7.7
+117 *Franmil Reyes        7.7
+118 *Yuli Gurriel         7.6
+119 *Vladimir Guerrero    7.6
+120 Amed Rosario         7.6
+121 Trey Mancini         7.4
+122 *Hyun-Jin Ryu         7.4
+123 *Luis Severino        7.4
+124 *Jose Abreu           7.4
+125 Khris Davis          7.3
+126 *Gary Sanchez         7.3
+127 *Kyle Schwarber       7.2
+128 *Kyle Hendricks       7.2
+129 Paul DeJong          7.2
+130 *Jesus Luzardo        7.1
+131 David Dahl           7.1
+132 *Jeff McNeil          7.0
+133 Matthew Boyd         7.0
+134 *Brad Hand            7.0
+135 *Michael Conforto     7.0
+136 *Max Kepler           6.9
+137 Chris Archer         6.9
+138 *DJ LeMahieu          6.9
+139 *Andrew Benintendi    6.9
+140 *Danny Santana        6.9
+141 *Roberto Osuna        6.9
+142 *Zac Gallen           6.8
+143 Mike Minor           6.8
+144 Garrett Richards     6.8
+145 Didi Gregorius       6.7
+146 *Eduardo Escobar      6.7
+147 *Jorge Polanco        6.7
+148 Joey Lucchesi        6.7
+149 Rougned Odor         6.7
+150 *Madison Bumgarner    6.7
+151 *Max Muncy            6.6
+152 *Carlos Santana       6.6
+153 Joe Musgrove         6.6
+154 Justin Upton         6.6
+155 *James Paxton         6.5
+156 *Ken Giles            6.5
+157 Salvador Perez       6.4
+158 Jean Segura          6.3
+159 *Raisel Iglesias      6.3
+160 Caleb Smith          6.2
+161 Dylan Bundy          6.2
+162 *Michael Brantley     6.1
+163 A.J. Puk             6.1
+164 Lourdes Gurriel      6.1
+165 Justin Turner        5.9
+166 Kenta Maeda          5.8
+167 Marcus Stroman       5.8
+168 *Nick Anderson        5.8
+169 *Brandon Workman      5.8
+170 *Taylor Rogers        5.7
+171 *Hector Neris         5.7
+172 Edwin Encarnacion    5.7
+173 Oscar Mercado        5.7
+174 Jose Quintana        5.7
+175 *Nick Castellanos     5.7
+176 Corey Seager         5.7
+177 Yasmani Grandal      5.6
+178 *Keone Kela           5.5
+179 Joe Jimenez          5.5
+180 Masahiro Tanaka      5.4
+181 Adam Eaton           5.4
+182 Lance McCullers      5.3
+183 Kevin Gausman        5.3
+184 Lorenzo Cain         5.2
+185 Jose Leclerc         5.2
+186 Archie Bradley       5.2
+187 Jose Urquidy         5.0
+188 Carlos Martinez      5.0
+189 *Kolten Wong          4.9
+190 Andrew McCutchen     4.9
+191 Mike Foltynewicz     4.9
+192 Josh Lindblom        4.8
+193 Rick Porcello        4.7
+194 *Kyle Tucker          4.7
+195 Sean Manaea          4.6
+196 Scott Kingery        4.6
+197 Josh James           4.6
+198 *Julio Urias          4.6
+199 Bryan Reynolds       4.5
+200 Willie Calhoun       4.5
+201 Daniel Murphy        4.5
+202 Yasiel Puig          4.5
+203 Mark Canha           4.5
+204 Shin-Soo Choo        4.4
+205 Dallas Keuchel       4.4
+206 Joey Votto           4.3
+207 Johnny Cueto         4.3
+208 Jonathan Schoop      4.1
+209 Marco Gonzales       4.1
+210 Hunter Dozier        4.1
+211 *Alex Colome          4.0
+212 Andrelton Simmons    4.0
+213 *Gavin Lux            3.9
+214 Randal Grichuk       3.9
+215 Ryan McMahon         3.9
+216 Renato Nunez         3.9
+217 C.J. Cron            3.9
+218 Mitch Keller         3.9
+219 Gregory Polanco      3.8
+220 Griffin Canning      3.8
+221 Anthony DeSclafani   3.8
+222 Luke Weaver          3.8
+223 Gio Urshela          3.7
+224 Eric Hosmer          3.7
+225 David Peralta        3.7
+226 Steven Matz          3.6
+227 Pablo Lopez          3.6
+228 Ryan Braun           3.6
+229 Brian Anderson       3.6
+230 Alex Verdugo         3.6
+231 Jeff Samardzija      3.5
+232 Cole Hamels          3.5
+233 Jon Lester           3.5
+234 Adrian Houser        3.4
+235 Niko Goodrum         3.4
+236 Dansby Swanson       3.4
+237 Vince Velasquez      3.4
+238 Jackie Bradley       3.3
+239 Nick Ahmed           3.3
+240 *Giovanny Gallegos    3.2
+241 Cavan Biggio         3.2
+242 Ian Kennedy          3.2
+243 Kyle Seager          3.2
+244 Brandon Lowe         3.1
+245 J.A. Happ            3.1
+246 Will Smith           3.0
+247 Christian Walker     3.0
+248 Jake Junis           3.0
+249 *Hansel Robles        3.0
+250 Will Smith           2.9
+251 Danny Duffy          2.8
+252 Anthony Santander    2.8
+253 *Shohei Ohtani        2.8
+254 Kevin Newman         2.8
+255 Kole Calhoun         2.8
+256 Hunter Renfroe       2.7
+257 Tanner Roark         2.7
+258 Willson Contreras    2.7
+259 Christian Vazquez    2.6
+260 Alex Wood            2.6
+261 *Sean Doolittle       2.5
+262 Willy Adames         2.5
+263 Eric Lauer           2.4
+264 Austin Hays          2.4
+265 Yonny Chirinos       2.3
+266 Avisail Garcia       2.3
+267 Starlin Castro       2.2
+268 Nathan Eovaldi       2.2
+269 Mitch Garver         2.2
+270 Tony Watson          2.2
+271 Teoscar Hernandez    2.1
+272 Jake Arrieta         2.1
+273 Todd Frazier         2.0
+274 Kyle Gibson          1.9
+275 Joc Pederson         1.9
+276 Matt Shoemaker       1.9
+277 Tom Murphy           1.9
+278 Adam Wainwright      1.9
+279 Brandon Kintzler     1.9
+280 Brendan McKay        1.8
+281 J.D. Davis           1.8
+282 Nomar Mazara         1.7
+283 Wilson Ramos         1.7
+284 Julio Teheran        1.7
+285 Brett Gardner        1.7
+286 Mychal Givens        1.7
+287 Cesar Hernandez      1.7
+288 Jurickson Profar     1.6
+289 Reynaldo Lopez       1.6
+290 Yadier Molina        1.6
+291 Mike Yastrzemski     1.6
+292 Matt Barnes          1.6
+293 Nick Madrigal        1.5
+294 Buster Posey         1.5
+295 Michael Pineda       1.4
+296 *Tommy Edman          1.4
+297 Yusei Kikuchi        1.3
+298 Kevin Kiermaier      1.3
+299 Luis Arraez          1.3
+300 Sean Newcomb         1.2
+301 Hanser Alberto       1.2
+302 Wade Davis           1.2
+303 Nick Solak           1.1
+304 John Means           1.1
+305 Jose Iglesias        1.1
+306 Mike Fiers           1.1
+307 Mark Melancon        1.1
+308 Dylan Cease          1.0
+309 Daniel Norris        1.0
+310 Tyler O'Neill        1.0
+311 Trevor Williams      1.0
+312 Trent Grisham        1.0
+313 Drew Smyly           1.0
+314 Dakota Hudson        0.9
+315 Dustin May           0.9
+316 Michael Chavis       0.9
+317 Sandy Alcantara      0.8
+318 Adam Frazier         0.8
+319 Spencer Turnbull     0.8
+320 Eric Thames          0.7
+321 Wade Miley           0.7
+322 Aaron Civale         0.7
+323 Carson Kelly         0.7
+324 Corey Dickerson      0.7
+325 Ryan Pressly         0.7
+326 Chris Bassitt        0.7
+327 Mike Tauchman        0.7
+328 Zach Eflin           0.6
+329 Jose Alvarado        0.6
+330 Daniel Hudson        0.6
+331 Anibal Sanchez       0.6
+332 Mike Leake           0.6
+333 Miguel Andujar       0.6
+334 Matt Carpenter       0.5
+335 Jordan Yamamoto      0.4
+336 Ryan Yarbrough       0.4
+337 Brad Keller          0.4
+338 Travis d'Arnaud      0.4
+339 Miles Mikolas        0.4
+340 Ian Happ             0.3
+341 Freddy Galvis        0.3
+342 Maikel Franco        0.3
+343 Tyler Chatwood       0.2
+344 Diego Castillo       0.2
+345 Evan Longoria        0.2
+346 Dellin Betances      0.2
+347 Jason Heyward        0.2
+348 Rich Hill            0.2
+349 Carter Kieboom       0.2
+350 Mauricio Dubon       0.2
+351 Albert Pujols        0.1
+352 Dexter Fowler        0.1
+353 Matt Magill          0.1
+354 Andrew Miller        0.1
+355 Sean Murphy          0.0
+356 Domingo German       0.0
+357 Shogo Akiyama        0.0
+358 Jorge Alfaro         0.0
+359 Chase Anderson       0.0
+360 JaCoby Jones         -0.1
