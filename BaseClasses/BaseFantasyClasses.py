@@ -27,7 +27,7 @@ def averageR(guy1, guy2):
     return (R1 + R2)/2 + guy1.HR
                 
 class Projections:
-    '''basically just writes results to a file.'''
+    '''basically just writes results to a file. Results? Results of what? Jesus.'''
     def __init__(self,file,hitters,pitchers):
         self.header = ["Name", "Pos","PA/IP", "BA","R","HR","RBI","SB","ERA","WHIP","W","SO","SV","fWAR","fWAR600"]
         ##mainPitchers.pitchers.sort(key=lambda pitcher: pitcher.playerID)
