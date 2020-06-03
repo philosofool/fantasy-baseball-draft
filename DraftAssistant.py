@@ -12,9 +12,9 @@ It can be updated to reflect changed in eligibility
 
 """
 
-from BaseClasses.Pitcher import Pitcher
-from BaseClasses.Hitter import Hitter
-from BaseClasses.Team import Team
+from BaseClasses.player.Pitcher import Pitcher
+from BaseClasses.player.Hitter import Hitter
+from BaseClasses.team.Team import Team
 from BaseClasses.BaseFantasyClasses import SimplePlayer
 from BaseClasses.BaseFantasyClasses import ClosersFile
 from BaseClasses.BaseFantasyClasses import CBSFilePlayers
