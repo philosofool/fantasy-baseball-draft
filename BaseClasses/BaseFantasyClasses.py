@@ -1,8 +1,8 @@
 import csv
 
-from .Hitter import Hitter
-from .Pitcher import Pitcher
-from .Team import Team
+from BaseClasses.player.Hitter import Hitter
+from BaseClasses.player.Pitcher import Pitcher
+from BaseClasses.team.Team import Team
         
 def averageIP(guy1,guy2):
     return guy1.IP*.5 + guy2.IP*.5
@@ -27,7 +27,10 @@ def averageR(guy1, guy2):
     return (R1 + R2)/2 + guy1.HR
                 
 class Projections:
-    '''basically just writes results to a file. Results? Results of what? Jesus.'''
+    '''
+    basically just writes results to a file. 
+    Results? Results of what? Jesus.
+    '''
     def __init__(self,file,hitters,pitchers):
         self.header = ["Name", "Pos","PA/IP", "BA","R","HR","RBI","SB","ERA","WHIP","W","SO","SV","fWAR","fWAR600"]
         ##mainPitchers.pitchers.sort(key=lambda pitcher: pitcher.playerID)

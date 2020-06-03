@@ -3,8 +3,8 @@
 '''
 
 
-from .Hitter import Hitter
-from .Pitcher import Pitcher
+from BaseClasses.player.Hitter import Hitter
+from BaseClasses.player.Pitcher import Pitcher
 
 
 def test():
