@@ -19,7 +19,7 @@ class Hitter(Player):
         try: ##verify the data is proper type:
             (G + PA + AB + H1B + H2B + H3B + HR + R + RBI + SB + CS + SO)
         except ValueError:
-            raise ValueError("This object {} {} was created with non integer types for numerical variables.".format(self,name))
+            raise ValueError("This object {} {} was created with non numeric types for numerical variables.".format(self,name))
             
         self.name = name
         self.Games = G
@@ -85,6 +85,9 @@ class Hitter(Player):
             )
 
     def adjToPA(self,PA):
+        '''
+        Sets all the players counting stats to a new number of PA.
+        '''
         try:
             self.formerPA = self.PA
             ratio = PA/self.PA
