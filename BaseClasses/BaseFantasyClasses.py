@@ -26,9 +26,6 @@ def averageR(guy1, guy2):
     R2 = ratio*(guy2.R - guy2.HR)
     return (R1 + R2)/2 + guy1.HR
                 
-
-    
-
 class Projections:
     '''basically just writes results to a file.'''
     def __init__(self,file,hitters,pitchers):
