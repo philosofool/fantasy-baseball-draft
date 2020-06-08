@@ -41,20 +41,33 @@ class Pitcher(Player):
 
 
     def isReliever(self):
-        '''return true if a pure reliever'''
+        '''
+        Return true if a pure reliever
+        '''
         if self.GS == 0 and self.IP > 0:
             return True
         else:
             return False
 
     def hasSaves(self, saves = 4):
-        if self.SV > saves:
+        """
+        Returns a bool if a player has a certain number of saves.
+
+        Parameters
+        ----------
+
+        saves: int, default = 5
+            Returns true if and only if Pitcher.SV >= saves.
+        """
+        if self.SV >= saves:
             return True
         else:
             return False
 
     def isaStarter(self):
-        '''return True if a pure starter'''
+        """
+        Return True if a pure starter
+        """
         try:
             if self.GS/self.G >= .9:
                 return True
@@ -66,21 +79,27 @@ class Pitcher(Player):
     
     @staticmethod
     def isaPitcher():
+        """
+        All players should have an isaPitcher(). Overrides Player.isaPitcher() to return True.
+        """
         return True
     
 
 
 
     def ERA(self):
+        """
+        Returns the pitcher's ERA. If the IP attribute is zero, returns zero.
+        """
         try:
             return self.ER/self.IP*9
-        except:
+        except ZeroDivisionError:
             return 0
 
     def WHIP(self):
         try:
             return (self.BB + self.H)/self.IP
-        except:
+        except ZeroDivisionError:
             return 0
 
     def xER(self):
@@ -93,7 +112,7 @@ class Pitcher(Player):
         self.formerIP = self.IP
         try:
             ratio = IP/self.IP
-        except:
+        except ZeroDivisionError:
             print(self.name+" Has 0 IP. in Pitcher.adjToIP"
                   )
             ratio = 0
