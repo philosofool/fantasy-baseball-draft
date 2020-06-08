@@ -8,7 +8,6 @@ Last modified Sat Feb 2 2019
 
 This file contains a DraftAssistant class definition for a list of player probjects and player CBS availablities
 It can be updated to reflect changed in eligibility
-.
 
 """
 
