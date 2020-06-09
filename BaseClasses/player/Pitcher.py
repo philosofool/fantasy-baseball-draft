@@ -109,24 +109,39 @@ class Pitcher(Player):
         return (self.lgWHIP - self.WHIP())*self.IP
 
     def adjToIP(self,IP):
-        self.formerIP = self.IP
+        """
+        Normalizes all the players counting stats to a new number of IP.
+
+        Parameters
+        ----------
+        IP : numeric
+            The number of IP the player is adjusted to. 
+            In order to prevent data loss, zero is not allowed and passing zero will have no effect.
+            To approximate zero, pass a small float (.01) as PA.
+
+            If the player's IP are already Zero, this has no effect
+        """
+
         try:
-            ratio = IP/self.IP
+            if IP == 0:
+                pass
+            else:
+                self.formerIP = self.IP
+                ratio = IP/self.IP        
+                self.W = self.W * ratio
+                self.L = self.L * ratio
+                self.GS = self.GS * ratio
+                self.G = self.G  * ratio
+                self.SV = self.SV  * ratio
+                self.IP = self.IP  * ratio
+                self.H = self.H * ratio
+                self.ER = self.ER * ratio
+                self.HR = self.HR * ratio
+                self.SO = self.SO * ratio
+                self.BB = self.BB * ratio
         except ZeroDivisionError:
-            print(self.name+" Has 0 IP. in Pitcher.adjToIP"
-                  )
-            ratio = 0
-        self.W = self.W * ratio
-        self.L = self.L * ratio
-        self.GS = self.GS * ratio
-        self.G = self.G  * ratio
-        self.SV = self.SV  * ratio
-        self.IP = self.IP  * ratio
-        self.H = self.H * ratio
-        self.ER = self.ER * ratio
-        self.HR = self.HR * ratio
-        self.SO = self.SO * ratio
-        self.BB = self.BB * ratio
+            print("Pitcher {} has 0 IP. Cannot adjust stats to innings pitched.".format(self))
+
         
     def asNumberIP(self,ip):
         guy = deepcopy(self)
