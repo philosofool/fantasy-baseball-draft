@@ -8,9 +8,13 @@ Last modified Sat Feb 2 2019
 
 This file contains a DraftAssistant class definition for a list of player probjects and player CBS availablities
 It can be updated to reflect changed in eligibility
-.
 
 """
+
+import csv
+import os
+import re
+from datetime import datetime
 
 from BaseClasses.player.Pitcher import Pitcher
 from BaseClasses.player.Hitter import Hitter
@@ -23,10 +27,6 @@ from BaseClasses.BaseFantasyClasses import DepthPitcherFile
 from BaseClasses.BaseFantasyClasses import CBSHitterProjections
 ##from BaseClasses.BaseFantasyClasses import PitcherFile
 
-import csv
-import os
-import re
-from datetime import datetime
 
 
 
