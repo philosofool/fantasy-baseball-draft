@@ -279,23 +279,26 @@ class Hitter(Player):
             To approximate zero, pass a small float (.01) as PA.
         """
         try:
-            self.formerPA = self.PA
-            ratio = PA/self.PA
-            self.PA = self.PA * ratio
-            self.AB = self.AB * ratio
-            self.BB = self.BB * ratio
-            self.H1B = self.H1B  * ratio
-            self.H2B = self.H2B  * ratio
-            self.H3B = self.H3B  * ratio
-            self.HR = self.HR  * ratio
-            self.R = self.R  * ratio
-            self.RBI = self.RBI  * ratio
-            self.SB = self.SB  * ratio
-            self.CS = self.CS  * ratio
-            self.SO = self.SO  * ratio
-            self.hits = self.calcHits()
+            if PA == 0:
+                pass
+            else:
+                self.formerPA = self.PA
+                ratio = PA/self.PA
+                self.PA = self.PA * ratio
+                self.AB = self.AB * ratio
+                self.BB = self.BB * ratio
+                self.H1B = self.H1B  * ratio
+                self.H2B = self.H2B  * ratio
+                self.H3B = self.H3B  * ratio
+                self.HR = self.HR  * ratio
+                self.R = self.R  * ratio
+                self.RBI = self.RBI  * ratio
+                self.SB = self.SB  * ratio
+                self.CS = self.CS  * ratio
+                self.SO = self.SO  * ratio
+                self.hits = self.calcHits()
         except ZeroDivisionError:
-            pass
+            print("Hitter {} has 0 PA. Cannot adjust plate appearances.".format(self))
         
     def asNumberPA(self,pa):
         """
