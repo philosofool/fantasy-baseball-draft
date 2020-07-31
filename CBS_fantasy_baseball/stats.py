@@ -2,6 +2,7 @@ import numpy as np
 
 class StatCalculator:
     '''Provides basic functionality for getting rate and counting stats from existing stats.
+    
     Includes pre-defined calculator for common and fantasy-relevant stats.
 
     Class Attributes
@@ -11,9 +12,7 @@ class StatCalculator:
     lgERA: numeric
     The league's era. Note that default is keyed to a fantasy stat.
 
-    lgWHIP: numeric
-    The leagues walk plus hits per inning pitched.
- attributes. Setting the attributes on instances may result in inconsistent
+    Setting the attributes on instances may result in inconsistent
     applications of the spg function across multiple instances.
 
     spg: dict (string: numeric)
@@ -26,6 +25,19 @@ class StatCalculator:
     The raw SPG value for each player who is replacement level at their position.
 
     '''
+
+    team_name_to_city_abbr = {
+    'Angels': 'LAA','Astros':'HOU', 'Dodgers':'LAD',
+    'Indians': 'CLE', 'Brewers': 'MIL', 'Athletics':'OAK',
+    'Twins': 'MIN', 'White Sox' : 'CHW', 'Nationals': 'WAS',
+    'Red Sox': 'BOS', 'Padres':'SD', 'Cubs' : 'CHC',
+    'Rockies': 'COL', 'Yankees': 'NYY', 'Braves': 'ATL',
+    'Phillies': 'PHI', 'Diamondbacks': 'ARI', 'Cardinals': 'STL',
+    'Blue Jays':'TOR', 'Mets': 'NYM', 'Reds': 'CIN',
+    'Rays': 'TB', 'Marlins': 'MIA', 'Royals':'KC',
+    'Rangers': 'TEX', 'Pirates': 'PIT', 'Mariners': 'SEA',
+    'Giants' : 'SF',  'Tigers': 'DET', 'Orioles': 'BAL'
+    }
 
     spg = {
         'K': 17.5,
@@ -69,10 +81,17 @@ class StatCalculator:
         pass
 
     @staticmethod
-    def fromRate(rate, denominator, to_int=False):
+    def from_rate(rate, denominator, to_int=False):
         '''
         Returns a counting-type stat from a rate and a denominator.
+        
         Note: this is essentially the product of the two arguments.
+
+        You might be wondering: so, why? You certainly don't have to! It's mostly for coherence
+        and the idea that this is "all you need for your baseball maths" in a single
+        place. Note that get_rate (the complement of this function) allows us to decide whether to 
+        allow infitie values instead of handling a division by zero error. When coupled with pandas,
+        this gives us a good way impute stats via df.replace(inf,df['ERA'].mean()) for example.
         '''
         out = rate * denominator
         if to_int:
@@ -80,9 +99,9 @@ class StatCalculator:
         return out
 
     @staticmethod
-    def getRate(numerator, denominator, to_int=False, allow_inf=True):
+    def get_rate(numerator, denominator, to_int=False, allow_inf=True):
         '''
-        Gets a rate stat, e.g. K/IP, from arguments.
+        Returns a rate stat, e.g. K/IP, from arguments, with options to handle division by zero.
         
         '''
         out = np.divide(numerator,denominator)
@@ -96,7 +115,8 @@ class StatCalculator:
                 pass
         return out
 
-    def Kper9(self, pitcher_stats, stat_dict=None, allow_inf = True):
+    @staticmethod
+    def Kper9(pitcher_stats, stat_dict=None, allow_inf = True):
         '''
         Returns strikeouts per nine innnings from a dict-like of pitcher stats.
 
@@ -122,7 +142,17 @@ class StatCalculator:
             IP = pitcher_stats(stat_dict['IP'])
             return getRate(K,IP/9, allow_inf = allow_inf)
 
-    def BBper9(self, pitcher_stats, stat_dict=None, allow_inf = True):
+    @staticmethod
+    def normalize_IP(IP):
+        '''
+        Converts IP with .1 or .2 to 1/3 and 2/3 respectively. 
+        '''
+        whole_IP = int(IP)
+        partial_IP = IP%1 * 10/3
+        return whole_IP + partial_IP
+
+    @staticmethod
+    def BBper9(pitcher_stats, stat_dict=None, allow_inf = True):
         '''
         Returns walks per nine innnings from a dict-like of pitcher stats.
 

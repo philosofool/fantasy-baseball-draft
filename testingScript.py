@@ -15,7 +15,7 @@ def test_StatCalculator():
     stat_dict = {'HR': 'HR', 'RBI': 'RBI','R': 'R', 'SB': 'SB', 'AB': 'AB', 'H': 'H', 'BA': 'BA', 'hr': 'HR'}
     calc.hitterFWAR(jackie)
     calc.hitterFWAR(jackie, use_count_stats = False, stat_dict=stat_dict)
-    satchel = {'K': 43,'IP': 72.2, 'BB': 22, 'H': 61, 'ER': 20, 'ERA': 2.48, 'SV': 1, 'S': 1, 'W': 6}
+    satchel = {'K': 43,'IP': 72.2, 'BB': 22, 'H': 61, 'WHIP': (61+22)/72.2, 'ER': 20, 'ERA': 2.48, 'SV': 1, 'S': 1, 'W': 6}
     calc.pitcherFWAR(satchel)
     calc.pitcherFWAR(satchel, use_count_stats=False)
     satchel.pop('K')
