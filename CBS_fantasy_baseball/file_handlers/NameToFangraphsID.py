@@ -1,3 +1,6 @@
+import numpy as np
+import pandas as pd
+
 class NameToFangraphsID:
     """ 
     A tool for mapping name data with Fangraphs playerids. 

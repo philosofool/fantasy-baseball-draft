@@ -130,8 +130,6 @@ class StatCalculator:
 
         A dictionary mapping 'K' and/or 'IP' to names for those stats in pitcher_stats or None. Used when pitcher_stats uses names
         besides 'K' and 'IP' for strikeouts and innings pitched. If None, uses 'K' and 'IP' as pitcher_stats keys.
-
-
         '''
         
         if not stat_dict:
