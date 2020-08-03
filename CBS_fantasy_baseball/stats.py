@@ -53,7 +53,7 @@ class StatCalculator:
         }
     lgERA = 3.79
     lgWHIP = 1.23
-    replacement_level = {
+    replacement_level = pd.Series{
         'P': 11.4,
         'C': 9,
         '1B': 16.7,
@@ -254,7 +254,7 @@ class StatCalculator:
         xWHIP_ = ((self.lgWHIP * IP) - (RA))/self.spg['xWHIP']
         return K_ + W_ + S_ + xER_ + xWHIP_ - self.replacement_level[position]
 
-    def hitterFWAR(self, hitter_stats, position = 'U', use_count_stats = True, stat_dict = None):
+    def hitterFWAR(self, hitter_stats, position = 'U', use_replacement = True, use_count_stats = True, stat_dict = None):
         '''
         Returns a cummulative SPG value, adjusted for replacement level, from a hitter's stats.
         ##FIX ME
@@ -299,7 +299,17 @@ class StatCalculator:
         R_ = R/self.spg['RBI']
         SB_ = SB/self.spg['SB']
         xH_ = (H - self.lgBA*AB)/self.spg['xH']
-        return HR_ + RBI_ + R_ + SB_ + xH_ - self.replacement_level[position]
+        if use_replacement:
+            rep_level = self.replacement_level[position]
+        else:
+            rep_level = 0
+        return HR_ + RBI_ + R_ + SB_ + xH_ - rep_level
+
+    def calc_hitter_replacement_level(self, data, count = 180, use_count_stats=True, stat_dict=None):
+        fwar_series = data.apply(self.hitterFWAR(data, 
+                                                 use_count_stats = use_count_stats, stat_dict=stat_dict,
+                                                 use_replacement = False))
+        return min(fwar_series.nlargest(count))
 
 
 
