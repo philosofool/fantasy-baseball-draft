@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 
 class StatCalculator:
     '''Provides basic functionality for getting rate and counting stats from existing stats.
