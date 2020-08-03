@@ -53,7 +53,7 @@ class StatCalculator:
         }
     lgERA = 3.79
     lgWHIP = 1.23
-    replacement_level = pd.Series{
+    replacement_level = pd.Series({
         'P': 11.4,
         'C': 9,
         '1B': 16.7,
@@ -65,7 +65,7 @@ class StatCalculator:
         'CF': 16.7,
         'LF': 16.7,
         'U': 16.7,
-        }
+        })
 
     spgxH = 8.475##used 8.47, nearly matched the real value of 8.486 in 2019.
     spgHR = 5.286##real value was 4.782
