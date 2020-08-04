@@ -189,7 +189,7 @@ class StatCalculator:
         FIP = np.divide((3*BB - 2*K + 13 * HR),IP) + fip_const
         return FIP
 
-    def pitcherFWAR(self, pitcher_stats, position = 'P', use_count_stats = True, stat_dict = None):
+    def pitcherFWAR(self, pitcher_stats, position = 'P', use_replacement = True, use_count_stats = True, stat_dict = None):
         '''
         Returns a cummulative SPG value, adjusted for replacement level, from a pitcher's stats.
         
@@ -203,6 +203,10 @@ class StatCalculator:
         
         use_count_stats: bool, default = True
             Use counting stats (ER, W, H) for calculations if True; use rate stats (ERA, WHIP) if False.
+
+        use_replacement: bool, default = True
+            Apply replacement level adjustment to cummulative SPG value, if true. Otherwise, return cummulative
+            value. False is useful for finding the replacemenet level value.
 
         stat_dict: dictionary, default = None
             A dictionary map of standard keys to the keys used for those stats in player_stats. 
@@ -251,9 +255,13 @@ class StatCalculator:
         K_ = K/self.spg['K']
         W_ = W/self.spg['W']
         S_ = S/self.spg['S']
-        xER_ = ((self.lgERA * IP) - ER)/self.spg['xER']
+        xER_ = ((self.lgERA * IP)/9 - ER)/self.spg['xER']
         xWHIP_ = ((self.lgWHIP * IP) - (RA))/self.spg['xWHIP']
-        return K_ + W_ + S_ + xER_ + xWHIP_ - self.replacement_level[position]
+        if use_replacement:
+            repl_adj = self.replacement_level[position]
+        else:
+            repl_adj = 0
+        return K_ + W_ + S_ + xER_ + xWHIP_ - repl_adj
 
     def hitterFWAR(self, hitter_stats, position = 'U', use_replacement = True, use_count_stats = True, stat_dict = None):
         '''
@@ -306,12 +314,27 @@ class StatCalculator:
             rep_level = 0
         return HR_ + RBI_ + R_ + SB_ + xH_ - rep_level
 
-    def calc_hitter_replacement_level(self, data, count = 180, use_count_stats=True, stat_dict=None):
-        fwar_series = data.apply(self.hitterFWAR(data, 
-                                                 use_count_stats = use_count_stats, stat_dict=stat_dict,
-                                                 use_replacement = False))
+    def hitter_replacement_level(self, data, count = 180, use_count_stats=True, stat_dict=None):
+        """
+        Returns the replacement level for hitters based on the input data.
+        """
+        fwar_series = data.apply(self.hitterFWAR, 
+                                 args=(self,),
+                                 use_count_stats = use_count_stats, stat_dict=stat_dict, 
+                                 use_replacement = False,
+                                 axis=1)
         return min(fwar_series.nlargest(count))
 
+    def pitcher_replacement_level(self, data, count = 180, use_count_stats=True, stat_dict=None):
+        """
+        Returns the replacement level for pitchers based on the input data.
+        """
+        fwar_series = data.apply(self.pitcherFWAR, 
+                                 args=(self,),
+                                 use_count_stats = use_count_stats, stat_dict=stat_dict, 
+                                 use_replacement = False,
+                                 axis=1)
+        return min(fwar_series.nlargest(count))
 
 
 
