@@ -147,3 +147,4 @@ cython_debug/
 # visual studio directories
 
 .vs
+*.code-workspace
