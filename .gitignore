@@ -148,3 +148,7 @@ cython_debug/
 
 .vs
 *.code-workspace
+
+# local configuration files
+
+settings/config.yml
