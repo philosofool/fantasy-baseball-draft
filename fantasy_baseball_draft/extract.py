@@ -34,3 +34,26 @@ def download_cbs_hitters(browser) -> Firefox:
     save_as = f'cbs_hitters_{pd.Timestamp.now().strftime("%Y-%m-%d")}'
     move_download_to_data(save_as)
     return browser
+
+def _move_download_to_data(new_name) -> None:
+    import shutil
+    f = get_most_recent_file(config['download_dir'])
+    shutil.move(
+        os.path.join(config['download_dir'], f),
+        os.path.join(config['data_dir'], new_name)
+    )
+
+#move_download_to_data('test_batter_tt.csv')
+
+# File utils. 
+
+def get_most_recent_file(directory) -> str:
+    """Return name of most recent file in dir."""
+    times = get_files_creation_times(directory)
+    return times[max(times.keys())]
+
+def get_files_creation_times(directory) -> dict:
+    """Map file names to creation times."""
+    c_time = lambda f: os.path.getctime(os.path.join(directory, f))
+    return {c_time(f): f for f in os.listdir(directory)}
+    
