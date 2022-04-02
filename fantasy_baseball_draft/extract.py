@@ -13,6 +13,13 @@ import utils
 
 from functionals.utils import sequential_compose
 
+config_path = os.path.normpath('../settings/config.yml')
+
+with open() as yml:
+    config = yaml.safe_load(yml.read())
+#assert config['password']
+#assert config['username']
+
 def nav_to_cbs(browser: Firefox) -> Firefox:
     """Login to CBS and load main page.
     
