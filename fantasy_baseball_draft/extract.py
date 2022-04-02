@@ -25,3 +25,12 @@ def nav_to_cbs(browser: Firefox) -> Firefox:
     password.send_keys(config['password'])
     button.click()
     return browser
+
+def download_cbs_hitters(browser) -> Firefox:
+    """Download cbs hitters."""    
+    batter_true_talent = "https://klf2006.baseball.cbssports.com/stats/stats-main/all:C:1B:2B:3B:SS:MI:CI:LF:CF:RF:U/ytd:p/True+Talent?"
+    browser.get(batter_true_talent)
+    browser.find_element(By.ID, 'btnExport').click()
+    save_as = f'cbs_hitters_{pd.Timestamp.now().strftime("%Y-%m-%d")}'
+    move_download_to_data(save_as)
+    return browser
