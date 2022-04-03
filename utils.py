@@ -4,7 +4,9 @@ Utilties for fantasy baseball.
 Functions
 
     load_cbs_data: load data, dropping default header, footer and "Unnamed: 0" cols.
+    
     process_players: columns to lower case, add columns for name, team, drop "player"
+    
     process hitters: adds eligibility.
 """
 
