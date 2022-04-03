@@ -11,46 +11,61 @@ from selenium.webdriver.common.by import By
 
 import utils
 
-from functionals.utils import sequential_compose
+class CBSExtractor:
+    """Collect data from CBS fantasy baseball."""
+    def __init__(self, config):
+        self.config = config
+        self.browser = self.set_browser()
+        self.nav_to_cbs()
+        
+    @classmethod
+    def from_config_path(cls, path):
+        with open(path) as yml:
+            return cls(yaml.safe_load(yml.read()))
 
-config_path = os.path.normpath('../settings/config.yml')
-
-with open() as yml:
-    config = yaml.safe_load(yml.read())
-#assert config['password']
-#assert config['username']
-
-def nav_to_cbs(browser: Firefox) -> Firefox:
-    """Login to CBS and load main page.
+    def set_browser(self):
+        opts = Options()
+        opts.headless = True
+        return Firefox(options=opts)
     
-    This authenticates a headless browser for successive calls."""
-    browser.get(config['cbs_home'])
-    user = browser.find_element_by_id('userid')
-    password = browser.find_element_by_id('password')
-    button = browser.find_element_by_name('_submit')
-    user.send_keys(config['username'])
-    password.send_keys(config['password'])
-    button.click()
-    return browser
+    def nav_to_cbs(self):
+        """Login to CBS and load main page.
+        
+        This authenticates a headless browser for successive calls."""
 
-def download_cbs_hitters(browser) -> Firefox:
-    """Download cbs hitters."""    
-    batter_true_talent = config["cbs_hitters"] 
-    browser.get(batter_true_talent)
-    browser.find_element(By.ID, 'btnExport').click()
-    save_as = f'cbs_hitters_{pd.Timestamp.now().strftime("%Y-%m-%d")}'
-    move_download_to_data(save_as)
-    return browser
+        self.browser.get(self.config['cbs_home'])
+        user = self.browser.find_element_by_id('userid')
+        password = self.browser.find_element_by_id('password')
+        button = self.browser.find_element_by_name('_submit')
+        user.send_keys(self.config['username'])
+        password.send_keys(self.config['password'])
+        button.click()
 
-def _move_download_to_data(new_name) -> None:
-    import shutil
-    f = get_most_recent_file(config['download_dir'])
-    shutil.move(
-        os.path.join(config['download_dir'], f),
-        os.path.join(config['data_dir'], new_name)
-    )
+    def download_data(self, target, path):
+        self.browser.get(target)
+        self.browser.find_element(By.ID, 'btnExport').click()
+        self._move_download_to_data(path)
 
-#move_download_to_data('test_batter_tt.csv')
+    def download_cbs_hitters(self):
+        """Download cbs hitters."""    
+        self.download_data(
+            self.config['cbs_hitters'], 
+            f'cbs_hitters_{pd.Timestamp.now().strftime("%Y-%m-%d")}.csv'
+        )
+
+    def download_cbs_pitchers(self):
+        """Download cbs pitchers."""
+        self.download_data(
+            self.config['cbs_pitchers'],
+            f'cbs_pitchers_{pd.Timestamp.now().strftime("%Y-%m-%d")}.csv'
+        )
+
+    def _move_download_to_data(self, new_name) -> None:
+        f = get_most_recent_file(self.config['download_dir'])
+        shutil.move(
+            os.path.join(self.config['download_dir'], f),
+            os.path.join(self.config['data_dir'], new_name)
+        )
 
 # File utils. 
 
