@@ -40,8 +40,13 @@ def process_hitters(hitters, hitter_elig):
     return hitters
 
 def process_cbs_player(player) -> tuple:
-    """Process the fucking stupid "Player" col in CBS data."""
+    """Process the fucking stupid "Player" column in CBS data."""
     split = player.split("|")
     name = " ".join(split[0].strip().split(' ')[:-1])
     team = split[1].strip()
     return name, team
+
+def free_agents(players: pd.DataFrame) -> pd.DataFrame:
+    """Filter non-free agents from dataframe."""
+    fa_expression = r"(W(\s?)\()|(FA)"
+    return players.avail.str.match(fa_expression)
