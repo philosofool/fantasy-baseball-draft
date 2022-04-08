@@ -34,6 +34,15 @@ class Extractor:
             os.path.join(self.config['data_dir'], new_name)
         )
 
+
+class CBSExtractor(Extractor):
+    """Collect data from CBS fantasy baseball."""
+    def __init__(self, config):
+        super().__init__(config)
+        #self.config = config
+        #self.browser = self.set_browser()
+        self.nav_to_cbs()
+
     def nav_to_cbs(self):
         """Login to CBS and load main page.
         
