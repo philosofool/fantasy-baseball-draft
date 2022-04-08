@@ -11,12 +11,11 @@ from selenium.webdriver.common.by import By
 
 import utils
 
-class CBSExtractor:
-    """Collect data from CBS fantasy baseball."""
+class Extractor:
     def __init__(self, config):
         self.config = config
         self.browser = self.set_browser()
-        self.nav_to_cbs()
+        #self.nav_to_cbs()
         
     @classmethod
     def from_config_path(cls, path):
@@ -28,6 +27,13 @@ class CBSExtractor:
         opts.headless = True
         return Firefox(options=opts)
     
+    def _move_download_to_data(self, new_name) -> None:
+        f = get_most_recent_file(self.config['download_dir'])
+        shutil.move(
+            os.path.join(self.config['download_dir'], f),
+            os.path.join(self.config['data_dir'], new_name)
+        )
+
     def nav_to_cbs(self):
         """Login to CBS and load main page.
         
