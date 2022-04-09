@@ -1,1 +1,0 @@
-These are test files for running your DraftAssistant and associated scripts. Don't edit, modify or remove except for DraftAssistant Development!
