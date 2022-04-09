@@ -4,12 +4,11 @@ import yaml
 import shutil
 import os
 import pandas as pd
+from time import sleep
 
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
-
-import utils
 
 class Extractor:
     def __init__(self, config):
@@ -28,7 +27,7 @@ class Extractor:
         return Firefox(options=opts)
     
     def _move_download_to_data(self, new_name) -> None:
-        f = get_most_recent_file(self.config['download_dir'])
+        f = look_for_new(self.config['download_dir'])
         shutil.move(
             os.path.join(self.config['download_dir'], f),
             os.path.join(self.config['data_dir'], new_name)
@@ -76,11 +75,25 @@ class CBSExtractor(Extractor):
         )
 
     def _move_download_to_data(self, new_name) -> None:
-        f = get_most_recent_file(self.config['download_dir'])
+        f = look_for_new_filter(self.config['download_dir'], lambda f: f.endswith('.csv'))
         shutil.move(
             os.path.join(self.config['download_dir'], f),
             os.path.join(self.config['data_dir'], new_name)
         )
+
+
+def look_for_new(directory):
+    files = os.listdir(directory)
+    num_files = len(files)
+    while len(os.listdir(directory)) == num_files:
+        sleep(.1)
+    return get_most_recent_file(directory)
+
+def look_for_new_filter(directory, filter_func):
+    recent = look_for_new(directory)
+    if filter_func(recent):
+        return recent
+    return look_for_new_filter(directory, filter_func)
 
 # File utils. 
 
