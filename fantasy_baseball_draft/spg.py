@@ -1,9 +1,3 @@
-# %% [markdown]
-# # Calculate SPG from CBS html
-# 
-# 
-
-# %%
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
@@ -72,7 +66,7 @@ def get_spgs(dfs: list) -> dict:
     return spgs
 
 # %%
-def spgs_from_standings_html(html='data\cbs_2021_standings.html') -> dict:
+def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
     """Read an html of league standings and find spgs for categories.
     
     Notes:
@@ -84,7 +78,7 @@ def spgs_from_standings_html(html='data\cbs_2021_standings.html') -> dict:
         Rate stats are calculated using the median value, not the mean, since 
         there are often extremes (saves punters, etc.) to skew the mean.
     """
-    with open('data\cbs_2021_standings.html', 'r') as f:
+    with open(path, 'r') as f:
         html = f.read()
     dfs = pd.read_html(html)
     return get_spgs(dfs[1:])
