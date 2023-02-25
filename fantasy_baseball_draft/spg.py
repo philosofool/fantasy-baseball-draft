@@ -23,13 +23,18 @@ def _get_key(df) -> str:
 
 def slope_func(stat: pd.Series, points: pd.Series) -> float:
     """Function to get linear slope."""
-    slope_func = lambda x, y: LinearRegression().fit(x, y).coef_[0, 0]
-    reshape = lambda series: series.to_numpy().reshape(-1, 1)
-    return slope_func(reshape(stat), reshape(points))
+    def slope(x, y): 
+        return LinearRegression().fit(x, y).coef_[0, 0]
+    def reshape(series):
+        try:
+            return series.to_numpy().reshape(-1, 1)
+        except AttributeError:
+            return series.reshape(-1, 1)
+    return slope(reshape(stat), reshape(points))
 
 def get_spg(df):
     key = _get_key(df)
-    out = drop_unneeded(df)
+    out = _drop_unneeded(df)
     slope = slope_func(out.stat, out.points)
     return {key.lower(): slope}
 
@@ -38,7 +43,7 @@ def get_spg(df):
 def get_xspg(df) -> dict:
     """Get xstat from rate stat."""
     key = _get_key(df)
-    df = drop_unneeded(df)
+    df = _drop_unneeded(df)
     mean = df.stat.median()
     if key == 'ba':   
         xh = 5600 * (df.stat - mean)
@@ -82,8 +87,6 @@ def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
         html = f.read()
     dfs = pd.read_html(html)
     return get_spgs(dfs[1:])
-
-spgs_from_standings_html()
     
 
 # %%
