@@ -1,0 +1,12 @@
+# Sample configuration. Use a file like this to specify local
+# configuration. 
+# Note: the CBS password is currently necessary. It is not recommended
+# to save this in a location that is accessible, for example,
+# in a Git repo. 
+paths:
+  local_data: "/path/to/data"
+cbs:
+   home_page: "http://your.cbsfantasbasell.league.url"
+   username: "cbs.username"
+   password: "baseball"
+   
