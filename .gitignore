@@ -152,3 +152,4 @@ cython_debug/
 # local configuration files
 
 settings/config.yml
+local/*
