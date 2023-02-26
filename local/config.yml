@@ -1,0 +1,6 @@
+paths:
+  local_data: 'C:\Users\lenha\Dropbox\baseball\fantasy_data'
+cbs:
+   home_page: "https://klf2006.baseball.cbssports.com/"
+   username: "philosofool"
+   password: "!5GYRh0Bc@8j"
