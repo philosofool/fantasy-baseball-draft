@@ -36,25 +36,25 @@ def get_spg(df):
     key = _get_key(df)
     out = _drop_unneeded(df)
     slope = slope_func(out.stat, out.points)
-    return {key.lower(): slope}
-
+    median = out.stat.median()
+    return {key: {'spg': slope, 'median': median}}
 
 # %%
 def get_xspg(df) -> dict:
     """Get xstat from rate stat."""
     key = _get_key(df)
     df = _drop_unneeded(df)
-    mean = df.stat.median()
+    median = df.stat.median()
     if key == 'ba':   
-        xh = 5600 * (df.stat - mean)
+        xh = 5600 * (df.stat - median)
         slope = slope_func(xh, df.points)
     if key == 'whip':
-        xwhip = 1200 * (df.stat - mean)
+        xwhip = 1200 * (df.stat - median)
         slope = slope_func(xwhip, df.points)
     if key == 'era':
-        xer = 1200 * (df.stat - mean)
+        xer = 1200 * (df.stat - median)
         slope = slope_func(xer, df.points)
-    return {key: slope/9}
+    return {key: {'spg': slope, 'median': median}}
 
 
 # %%
@@ -71,7 +71,7 @@ def get_spgs(dfs: list) -> dict:
     return spgs
 
 # %%
-def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
+def spgs_from_standings_html(path) -> pd.DataFrame:
     """Read an html of league standings and find spgs for categories.
     
     Notes:
@@ -86,7 +86,7 @@ def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
     with open(path, 'r') as f:
         html = f.read()
     dfs = pd.read_html(html)
-    return get_spgs(dfs[1:])
+    return pd.DataFrame(get_spgs(dfs[1:])).T
     
 
 # %%
