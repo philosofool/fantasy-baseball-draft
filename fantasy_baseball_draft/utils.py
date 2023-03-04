@@ -29,7 +29,7 @@ def process_players(players: pd.DataFrame) -> pd.DataFrame:
     players['name'] = players.player.apply(lambda x: process_cbs_player(x)[0])
     players['team'] = players.player.apply(lambda x: process_cbs_player(x)[1])
     first_cols = ['avail', 'name', 'team']
-    players = players[first_cols + [col for col in players.columns if col not in first_cols]].drop('player', axis=1)
+    players = players[first_cols + [col for col in players.columns if col not in first_cols]]#.drop('player', axis=1)
     return players
 
 def process_hitters(hitters, hitter_elig):

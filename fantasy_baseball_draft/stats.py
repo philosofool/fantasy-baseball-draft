@@ -1,8 +1,10 @@
 """Handle stats."""
 
-def pitcher_fwar(pitcher, spg, league):
+def pitcher_fwar(pitcher, spg):
+    league = spg['median']
+    spg = spg.spg
     fwar = (
-        pitcher.k * spg['so'] 
+        pitcher.k * spg['k'] 
         + pitcher.w * spg['w']
         + pitcher.s * spg['s']
         + ((league['era'] - pitcher.era)/9 * pitcher.inn * spg['er']).fillna(0)
