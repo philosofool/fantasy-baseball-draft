@@ -14,6 +14,8 @@ Functions
 import pandas as pd
 import os
 
+from philosofool.data_science.clean import Concordance
+
 # very generic
 
 def load_cbs_data(path) -> pd.DataFrame:
@@ -50,3 +52,30 @@ def free_agents(players: pd.DataFrame) -> pd.DataFrame:
     """Filter non-free agents from dataframe."""
     fa_expression = r"(W(\s?)\()|(FA)"
     return players.avail.str.match(fa_expression)
+
+
+class StatSynonyms(Concordance):
+    """Concordance of stat synonyms used in baseball.
+    
+    Example usage:
+        stat_synonyms = StatSynonyms()
+        assert stat_synonyms.normalize('SO') == 'K'
+    """
+    def __init__(self):
+        ...
+        self.syn_set = {
+            'AVG': 'BA',
+            'INN': 'IP', 
+            'INNs': 'IP',
+            'BBI': 'BB',
+            'SO': 'K',
+            'SV': 'S'
+        }
+        
+    
+    def preprocess(self, value):
+        return value.remove('.').upper()
+
+
+
+
