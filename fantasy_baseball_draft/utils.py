@@ -66,15 +66,17 @@ class StatSynonyms(Concordance):
         self.syn_set = {
             'AVG': 'BA',
             'INN': 'IP', 
-            'INNs': 'IP',
+            'INNS': 'IP',
             'BBI': 'BB',
             'SO': 'K',
             'SV': 'S'
         }
         
+    def normalize(self, abbr):
+        return self.syn_set.get(self.preprocess(abbr), abbr)
     
     def preprocess(self, value):
-        return value.remove('.').upper()
+        return value.replace('.', '').upper()
 
 
 
