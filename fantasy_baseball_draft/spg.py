@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
+from .utils import StatSynonyms
+from .stats import hitter_fwar, pitcher_fwar
+
 
 # %%
 def _drop_unneeded(df):
@@ -36,25 +39,25 @@ def get_spg(df):
     key = _get_key(df)
     out = _drop_unneeded(df)
     slope = slope_func(out.stat, out.points)
-    return {key.lower(): slope}
-
+    median = out.stat.median()
+    return {key: {'spg': slope, 'median': median}}
 
 # %%
 def get_xspg(df) -> dict:
     """Get xstat from rate stat."""
     key = _get_key(df)
     df = _drop_unneeded(df)
-    mean = df.stat.median()
+    median = df.stat.median()
     if key == 'ba':   
-        xh = 5600 * (df.stat - mean)
+        xh = 5600 * (df.stat - median)
         slope = slope_func(xh, df.points)
     if key == 'whip':
-        xwhip = 1200 * (df.stat - mean)
+        xwhip = 1200 * (df.stat - median)
         slope = slope_func(xwhip, df.points)
     if key == 'era':
-        xer = 1200 * (df.stat - mean)
+        xer = 1200 * (df.stat - median)
         slope = slope_func(xer, df.points)
-    return {key: slope/9}
+    return {key: {'spg': slope, 'median': median}}
 
 
 # %%
@@ -71,7 +74,7 @@ def get_spgs(dfs: list) -> dict:
     return spgs
 
 # %%
-def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
+def spgs_from_standings_html(path) -> pd.DataFrame:
     """Read an html of league standings and find spgs for categories.
     
     Notes:
@@ -86,10 +89,94 @@ def spgs_from_standings_html(path='data\cbs_2021_standings.html') -> dict:
     with open(path, 'r') as f:
         html = f.read()
     dfs = pd.read_html(html)
-    return get_spgs(dfs[1:])
-    
+    return pd.DataFrame(get_spgs(dfs[1:])).T
 
-# %%
+class Valuator:
+    def __init__(self, spg):
+        self.spg = spg
+        self.stat_syn = StatSynonyms()
+
+    def clean_df(self, df, inplace=False) -> pd.DataFrame:
+        """Clean df for processing."""
+        if not inplace:
+            df = df.copy()
+            self.clean_df(df, inplace=True)
+            return df
+        df.rename(columns={k: self.stat_syn.normalize(k).lower() for k in df.columns}, inplace=True)
+
+class ReplacementValuator(Valuator):
+    positions = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF']
+
+    def valuate_hitters(self, df, depth) -> pd.Series:
+        """Return the position-adjusted player value.
+
+        For many league structures, this will return one number for catchers
+        and another for all other players. This is because
+        utility positions allow absorb most of the small gap between,
+        e.g., second base and OF, so that the worst playable short stop
+        is still better than the worst playable utility player.
+        """
+        df = self.clean_df(df)
+        pos_values = self.find_position_values(df, depth)
+        pos_values = {k: v for k, v in pos_values.items() if v != 0}
+        pos_values = dict(sorted(pos_values.items(), key=lambda x: x[1], reverse=True))
+        def best_pos_value(x):
+            vals = [pos_values.get(pos, 0) for pos in x.split(',')]
+            if not vals:
+                return pos_values.get(x, 0)
+            return max(vals)
+        # TODO: reduce number of calls to hitter_fwar. There are a lot of them. 
+        # this is a waste, but getting the job done ATM. 
+        baseline_rep_level = hitter_fwar(df, self.spg).sort_values()[-depth:].values[0]
+        x = df.eligible.apply(best_pos_value)
+        return baseline_rep_level - x
+
+    def valuate_pitchers(self, df, depth):
+        df = self.clean_df(df)
+        baseline_rep_level = pitcher_fwar(df, depth).sort_values()[-depth:][0]
+        return baseline_rep_level
+   
+    def find_position_values(self, df, depth: int) -> dict:
+        positions = ['C', '1B', '2B', '3B', 'SS', 'LF', 'CF', 'RF']
+        df = df.copy().rename(columns={k: k.lower() for k in df.columns})
+        df['fwar'] = hitter_fwar(df, self.spg)
+        df = df.sort_values('fwar', ascending=False)
+        #print(df.head())
+        raw_replace = df.fwar[:depth].values[-1]
+        replace_values = {}
+        for pos in self.positions:
+            exp = f'{pos},|{pos}$'  # regex match postion followed by comma or EoL.
+            _df = df[df.eligible.str.contains(exp)]
+            replace_values[pos] = max(raw_replace - _df[:16].fwar.min(), 0)
+        return replace_values
+
+
+class FantasyValuator(Valuator):
+    def __init__(self, spg):
+        super().__init__(spg)
+        self.replacement = ReplacementValuator(spg)
+
+    def valuate_hitters(self, df, depth) -> pd.Series:
+        fwar = self.hitter_fwar(df)
+        replacement_level = self.replacement.valuate_hitters(df, depth)
+        print(replacement_level.min(), fwar.min())
+        return fwar - replacement_level
+
+    def valuate_pitchers(self, df, depth):
+        fwar = self.pitcher_fwar(df)
+        replacement_level = self.replacement_level(fwar, depth)
+        return fwar - replacement_level
+
+    def hitter_fwar(self, df) -> pd.Series:
+        df = self.clean_df(df)
+        return hitter_fwar(df, self.spg)
+
+    def pitcher_fwar(self, df) -> pd.Series:
+        df = self.clean_df(df)
+        return pitcher_fwar(df, self.spg)
+
+    def replacement_level(self, fwar: pd.Series, depth: int):
+        return fwar.sort_values(ascending=False)[:depth].min()
 
 
 

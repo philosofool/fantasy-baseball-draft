@@ -14,6 +14,8 @@ Functions
 import pandas as pd
 import os
 
+from philosofool.data_science.clean import Concordance
+
 # very generic
 
 def load_cbs_data(path) -> pd.DataFrame:
@@ -29,7 +31,7 @@ def process_players(players: pd.DataFrame) -> pd.DataFrame:
     players['name'] = players.player.apply(lambda x: process_cbs_player(x)[0])
     players['team'] = players.player.apply(lambda x: process_cbs_player(x)[1])
     first_cols = ['avail', 'name', 'team']
-    players = players[first_cols + [col for col in players.columns if col not in first_cols]].drop('player', axis=1)
+    players = players[first_cols + [col for col in players.columns if col not in first_cols]]#.drop('player', axis=1)
     return players
 
 def process_hitters(hitters, hitter_elig):
@@ -50,3 +52,32 @@ def free_agents(players: pd.DataFrame) -> pd.DataFrame:
     """Filter non-free agents from dataframe."""
     fa_expression = r"(W(\s?)\()|(FA)"
     return players.avail.str.match(fa_expression)
+
+
+class StatSynonyms(Concordance):
+    """Concordance of stat synonyms used in baseball.
+    
+    Example usage:
+        stat_synonyms = StatSynonyms()
+        assert stat_synonyms.normalize('SO') == 'K'
+    """
+    def __init__(self):
+        ...
+        self.syn_set = {
+            'AVG': 'BA',
+            'INN': 'IP', 
+            'INNS': 'IP',
+            'BBI': 'BB',
+            'SO': 'K',
+            'SV': 'S'
+        }
+        
+    def normalize(self, abbr):
+        return self.syn_set.get(self.preprocess(abbr), abbr)
+    
+    def preprocess(self, value):
+        return value.replace('.', '').upper()
+
+
+
+
