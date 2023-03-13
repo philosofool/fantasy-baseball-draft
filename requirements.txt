@@ -1,4 +1,3 @@
-python-Levenshtein @ file:///D:/bld/python-levenshtein_1636053324368/work
 PyYAML==6.0
 pandas>=1.4
 selenium>=4.1
