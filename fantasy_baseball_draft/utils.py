@@ -17,12 +17,29 @@ import os
 from philosofool.data_science.clean import Concordance
 
 # very generic
+class DataLoader:
+    synonyms = StatSynonyms()
+
+    def __init__(self, directory):
+        self.dir = directory
+
+    def load_csv(self, name):
+        path = os.path.join(self.dir, name)
+        df = pd.read_csv(path)
+        return self.synonyms.normalize_df(df)
+
+    def load_cbs_csv(self, name):
+        path = os.path_join(self.dir, name)
+        df = load_cbs_data(path)
+        return self.synonyms.normalize_df(df)
+            
 
 def load_cbs_data(path) -> pd.DataFrame:
     """Load cleaned cbs projections."""
     path = os.path.normpath(path)
     df = pd.read_csv(path, skiprows=1, skipfooter=1, engine='python')
     df = df[[col for col in df.columns if 'Unnamed' not in col]]
+    df.Player = df.Player.str.strip()
     return df
 
 def process_players(players: pd.DataFrame) -> pd.DataFrame:
@@ -54,6 +71,7 @@ def free_agents(players: pd.DataFrame) -> pd.DataFrame:
     return players.avail.str.match(fa_expression)
 
 
+
 class StatSynonyms(Concordance):
     """Concordance of stat synonyms used in baseball.
     
@@ -69,7 +87,8 @@ class StatSynonyms(Concordance):
             'INNS': 'IP',
             'BBI': 'BB',
             'SO': 'K',
-            'SV': 'S'
+            'SV': 'S',
+            'APP': 'G'
         }
         
     def normalize(self, abbr):
@@ -78,6 +97,11 @@ class StatSynonyms(Concordance):
     def preprocess(self, value):
         return value.replace('.', '').upper()
 
-
-
+    def normalize_df(self, df, inplace=False):
+        """Normalize dataframe column names."""
+        if not inplace:
+            df = df.copy()
+            self.normalize_df(df, True)
+            return df
+        df.rename(columns={k: self.normalize(k) for k in df.columns}, inplace=True)
 
