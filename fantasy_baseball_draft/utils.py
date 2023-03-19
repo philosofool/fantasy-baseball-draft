@@ -16,12 +16,12 @@ import os
 
 from philosofool.data_science.clean import Concordance
 
-# very generic
+
 class DataLoader:
-    synonyms = StatSynonyms()
 
     def __init__(self, directory):
         self.dir = directory
+        self.synonyms = StatSynonyms()
 
     def load_csv(self, name):
         path = os.path.join(self.dir, name)
@@ -29,10 +29,10 @@ class DataLoader:
         return self.synonyms.normalize_df(df)
 
     def load_cbs_csv(self, name):
-        path = os.path_join(self.dir, name)
+        path = os.path.join(self.dir, name)
         df = load_cbs_data(path)
         return self.synonyms.normalize_df(df)
-            
+
 
 def load_cbs_data(path) -> pd.DataFrame:
     """Load cleaned cbs projections."""
@@ -88,7 +88,8 @@ class StatSynonyms(Concordance):
             'BBI': 'BB',
             'SO': 'K',
             'SV': 'S',
-            'APP': 'G'
+            'APP': 'G',
+            'PLAYERID': 'playerid'
         }
         
     def normalize(self, abbr):
