@@ -1,8 +1,11 @@
 """Handle stats."""
 
-def pitcher_fwar(pitcher, spg):
+import pandas as pd
+
+def pitcher_fwar(pitcher: pd.DataFrame, spg: pd.DataFrame) -> pd.Series:
+    """Return pitcher spg weighted values."""
     league = spg['median']
-    spg = spg.spg
+    spg = spg['spg']
     fwar = (
         pitcher.k * spg['k'] 
         + pitcher.w * spg['w']
@@ -12,7 +15,8 @@ def pitcher_fwar(pitcher, spg):
     )
     return fwar
 
-def hitter_fwar(hitter, spg):
+def hitter_fwar(hitter: pd.DataFrame, spg: pd.DataFrame) -> pd.Series:
+    """Return hitter spg weighted values."""
     league = spg['median']
     spg = spg.spg
     ba = hitter.h / hitter.ab
