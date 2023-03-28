@@ -10,8 +10,8 @@ def pitcher_fwar(pitcher: pd.DataFrame, spg: pd.DataFrame) -> pd.Series:
         pitcher.k * spg['k'] 
         + pitcher.w * spg['w']
         + pitcher.s * spg['s']
-        + ((league['era'] - pitcher.era)/9 * pitcher.ip * spg['era']).fillna(0)
-        + ((league['whip'] - pitcher.whip) * pitcher.ip * spg['whip']).fillna(0)
+        + ((pitcher.era - league['era'])/9 * pitcher.ip * spg['era']).fillna(0)
+        + ((pitcher.whip - league['whip']) * pitcher.ip * spg['whip']).fillna(0)
     )
     return fwar
 
