@@ -159,7 +159,7 @@ class FantasyValuator(Valuator):
     def valuate_hitters(self, df, depth) -> pd.Series:
         fwar = self.hitter_fwar(df)
         replacement_level = self.replacement.valuate_hitters(df, depth)
-        print(replacement_level.min(), fwar.min())
+        # print(replacement_level.min(), fwar.min())
         return fwar - replacement_level
 
     def valuate_pitchers(self, df, depth):
@@ -177,6 +177,25 @@ class FantasyValuator(Valuator):
 
     def replacement_level(self, fwar: pd.Series, depth: int):
         return fwar.sort_values(ascending=False)[:depth].min()
+
+class FantasyRateValuator(FantasyValuator):
+    def valuate_pitchers(self, df, depth):
+        df = self.clean_df(df)
+        fwar = self.pitcher_fwar(df)
+        ratio = 130 / df.ip
+        for stat in ['k', 'w', 's']:
+            df[stat] = ratio * df[stat]
+        df.ip = 130
+        return super().pitcher_fwar(df)
+
+    def valuate_hitters(self, df, depth):
+        df = self.clean_df(df)
+        if not hasattr(df, 'pa'):
+            df['pa'] = df.bb + df.ab
+        ratio = 475 / df.pa
+        for stat in ['hr', 'r', 'rbi', 'sb', 'ab']:
+            df[stat] = df[stat] * ratio
+        return super().hitter_fwar(df)
 
 
 
