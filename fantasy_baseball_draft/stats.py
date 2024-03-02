@@ -45,7 +45,7 @@ class StatSynonyms:
         return df.rename(columns={k: self.normalize(k) for k in df.columns})
 
 
-class Graph(MetricGraph):
+class StatCalculator(MetricGraph):
     """Provide calculations for baseball stats.
 
     Following conventions used in other data science packages, we use the term "metric"
