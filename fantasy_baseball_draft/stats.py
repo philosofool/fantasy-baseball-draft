@@ -126,6 +126,22 @@ class Graph(MetricGraph):
             case _, _:
                 raise Exception("You must provide both metrics and a graph when updating.")
 
+
+def calculate_pitcher_fwar(spg_data: Mapping, k: ArrayLike, w: ArrayLike, s: ArrayLike, era: ArrayLike, whip: ArrayLike, ip: ArrayLike) -> np.ndarray:
+    norm_era = (era - spg_data['lg_era']) / 9 * ip
+    norm_whip = (whip - spg_data['lg_whip']) * ip
+    stacked_metrics = np.stack([k, w, s, norm_era, norm_whip])
+    spgs = np.array([spg_data[metric] for metric in ['K', 'W', 'S', 'ERA', 'WHIP']])
+    return (stacked_metrics * spgs).sum(axis=1)
+
+
+def calculate_hitter_fwar(spg_data: Mapping, r: ArrayLike, hr: ArrayLike, rbi: ArrayLike, sb: ArrayLike, ba: ArrayLike, ab: ArrayLike) -> np.ndarray:
+    norm_ba = (ba - spg_data['lg_ba']) * ab
+    stacked_metrics = np.stack([r, hr, rbi, sb, norm_ba])
+    spgs = np.array([spg_data[metric] for metric in ['R', 'HR', 'R', 'SB', 'BA']])
+    return (stacked_metrics * spgs).sum(axis=1)
+
+
 def pitcher_fwar(pitcher: pd.DataFrame, spg: pd.Series) -> pd.Series:
     """Return pitcher spg weighted values."""
     league = spg['median']
