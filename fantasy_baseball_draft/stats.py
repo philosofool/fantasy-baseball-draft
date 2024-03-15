@@ -14,6 +14,13 @@ from philosofool.functional.functional import compose_function
 from philosofool.data_science.graph import MetricGraph
 
 
+def _strip_lines(s: str, strip_whitespace=True):
+    out = re.sub(r"^[^\n]*\n", '', s)  # remove first line
+    return out
+    out = [re.sub(r'^\s{4}', '', line) for line in out.split('\n')]
+    return '\n'.join(out)
+
+
 class StatSynonyms:
     """Concordance of stat synonyms used in baseball.
 
@@ -89,6 +96,7 @@ class StatCalculator(MetricGraph):
         return functools.reduce(np.add, args)
 
     model = {
+        'R': (lambda x: x, tuple()),
         'H': (reduce_sum, ('1B', '2B', '3B', 'HR')),
         'TB': (
             compose_function(
@@ -104,7 +112,7 @@ class StatCalculator(MetricGraph):
         'OBP': (np.divide, ('TOB', 'PA')),
         'OPS': (np.add, ('OBP', 'SLG')),
         'WHIP': (np.divide, ('TOB', 'IP')),
-        'ERA': (lambda er, ip: (er / ip) / 9, ('ER', 'IP')),
+        'ERA': (lambda er, ip: (er / ip) * 9, ('ER', 'IP')),
         'BIP': (lambda ab, hr, k: ab - (hr + k), ('AB', 'HR', 'K')),
         'BABIP': (lambda bip, h, hr, ab: ((h - hr) / bip), ('BIP', 'H', 'HR')),
     }
