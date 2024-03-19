@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fantasy_baseball_draft"
+version = "0.0.1"
+authors = [
+  { name="S.J. Lenhart", email="lenhart.lenhart@gmail.com" },
+]
+description = "Utilities for fantasy baseball stuff."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/philosofool/fantasy-baseball-draft"
+"Bug Tracker" = "https://github.com/philosofool/fantasy-baseball-draft/issues"
