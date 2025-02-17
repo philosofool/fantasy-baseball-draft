@@ -155,7 +155,9 @@ settings/config.yml
 local/*
 
 # I think vs-code added this when I created a python environment.
-# I'm a little confused, but having thirty-one new files in my working 
+# I'm a little confused, but having thirty-one new files in my working
 # tree is annoying.
 
 fantasy-baseball
+
+statcast_data/
