@@ -67,3 +67,22 @@ class FetchStatcast:
         end_str = end.strftime("%Y-%m-%d")
         name = f"statcast_{start_str}_{end_str}"
         return os.path.join(self.local_file_cache, name)
+
+
+def subset_for_analysis(df) -> pd.DataFrame:
+    wanted_cols = ['batter', 'pitcher', 'events', 'description', 'game_pk', 'at_bat_number', 'pitch_number']
+    df = df[wanted_cols].sort_values(['game_pk', 'at_bat_number', 'pitch_number'])
+    return df.groupby(['game_pk', 'at_bat_number']).agg('last')
+
+def is_k_looking(df: pd.DataFrame) -> pd.Series:
+    is_k = df.events == 'strikeout'
+    is_called = df.description == 'called_strike'
+    return is_k & is_called
+
+def mask_k_type(df: pd.DataFrame) -> pd.Series:
+    """Return a pd.Series of events, where strike-outs are coded."""
+    result = (
+        df['events']
+        .mask(is_k_looking(df), 'strikout_looking')
+        .mask(df.events == 'strikeout', 'strikeout_swinging'))
+    return pd.Categorical(result)
