@@ -83,6 +83,7 @@ def mask_k_type(df: pd.DataFrame) -> pd.Series:
     """Return a pd.Series of events, where strike-outs are coded."""
     result = (
         df['events']
-        .mask(is_k_looking(df), 'strikout_looking')
-        .mask(df.events == 'strikeout', 'strikeout_swinging'))
-    return pd.Categorical(result)
+        .mask(is_k_looking(df), 'strikeout_looking')
+
+    )
+    return pd.Categorical(result.mask(result == 'strikeout', 'strikeout_swinging'))
