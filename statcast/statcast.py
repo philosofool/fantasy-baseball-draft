@@ -1,3 +1,11 @@
+"""Custom functions for working with pybaseball data.
+
+See:
+    https://baseballsavant.mlb.com/csv-docs
+for documentation of csv results.
+"""
+
+
 from collections.abc import Callable
 import pandas as pd
 import os
@@ -70,7 +78,7 @@ class FetchStatcast:
 
 
 def subset_for_analysis(df) -> pd.DataFrame:
-    wanted_cols = ['batter', 'pitcher', 'events', 'description', 'game_pk', 'at_bat_number', 'pitch_number']
+    wanted_cols = ['batter', 'pitcher', 'events', 'description', 'game_pk', 'at_bat_number', 'pitch_number', 'home_team']
     df = df[wanted_cols].sort_values(['game_pk', 'at_bat_number', 'pitch_number'])
     return df.groupby(['game_pk', 'at_bat_number']).agg('last')
 
