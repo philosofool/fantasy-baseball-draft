@@ -115,7 +115,7 @@ class StatCalculator(MetricGraph):
         'ERA': (lambda er, ip: (er / ip) * 9, ('ER', 'IP')),
         'BIP': (lambda ab, hr, k: ab - (hr + k), ('AB', 'HR', 'K')),
         'BABIP': (lambda bip, h, hr, ab: ((h - hr) / bip), ('BIP', 'H', 'HR')),
-    }
+    }   # pyright: ignore [reportAssignmentType]
 
     dependency_graph: dict[str, tuple[str, ...]] = {key: dependencies for key, (_, dependencies) in model.items()}
     metric_functions: dict[str, Callable[..., ArrayLike]] = {key: fn for key, (fn, _) in model.items()}

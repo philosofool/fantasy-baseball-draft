@@ -6,7 +6,7 @@ Utilties for fantasy baseball.
 import pandas as pd
 import os
 
-from stats import StatSynonyms
+from .stats import StatSynonyms
 
 
 class DataLoader:
